@@ -1,0 +1,743 @@
+[
+  {
+    "id": "205:8016",
+    "name": "Image",
+    "path": "Traveli > Body > Section > Container > Frame 2 > Image",
+    "imageRef": "6d53decb7e1f7f20f316753ddc4e954d7d13e1f2",
+    "url": "https://s3-alpha-sig.figma.com/img/6d53/decb/7e1f7f20f316753ddc4e954d7d13e1f2?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=UB9BpoBKltjsrKSZtdd0STPpGy~fugb-GMRc8uvuUZNOyUJT3oFeTOE6w1BaEqmzPdmYZFXahozhD6qVH-1iUqvjM9sZq7ZASt-ruzLstyhuZ3LOZ9wvEA89MSHQ-f4rq9tMyENsxF-6sW552K-Lr1FBj5G8r7xM0Xi3vVECaRH4RMGATMLdoOGGWpJFVSDadtMW5slbArOBqtzpym9ZNhhSJ7fEY1ZkmM8ipT32HCMNJdtOv-WPTrD83cFd2sMgj28IluaWzV6OOzORrM7PAn2w77b~aERSVGFA7HE8nv6WsW0U~b6PmSRde47Wb2vsNEWqtpmXBqVpAbeQzbzIrw__",
+    "box": {
+      "x": -33858.99955826998,
+      "y": 4931,
+      "width": 360.5239734053612,
+      "height": 409.1752564534545
+    }
+  },
+  {
+    "id": "205:8014",
+    "name": "Image",
+    "path": "Traveli > Body > Section > Container > Frame 2 > Container > Image:transform > Image",
+    "imageRef": "9c6852f8c48338819d0578d45d633812da1e6aec",
+    "url": "https://s3-alpha-sig.figma.com/img/9c68/52f8/c48338819d0578d45d633812da1e6aec?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=YK6eVT4DLQCH-yxkNygXo8q-E6Q~QUOX~UeCtoKOzudPXK897Yl395DID5YzqQSu7pwnw816ybgnaqILmgTwv6rWAjR6TBJtfQMtT~aqiq3gbhj4GS5xlXsd1IkF0EHOxRMOI44vp3rC-mGQfr41X~RSfCUJIYrWYFYqtTJkZr8GL8g8DH60-W5QdOTtdVNqddbN5nrR2omz38JbZQbtSql2zOXLjjx619muH2jt-7aYq-yNIzIRktvg8uf8kj~V9brpgSJsK2Y55Aa4wLaVgtAeL-VNX5sqN3EW3Kwp2YMhAhVr0we7oJhYYt7mIhOjdEntdkCHT58NEO7QN1tb2Q__",
+    "box": {
+      "x": -33468.57913547754,
+      "y": 4985.564453125,
+      "width": 362.9071518778801,
+      "height": 411.243505589664
+    }
+  },
+  {
+    "id": "205:8011",
+    "name": "Image",
+    "path": "Traveli > Body > Section > Container > Frame 2 > Container > Image:transform > Image",
+    "imageRef": "3820d7615335c130f449ac34a4d8b541aba155ea",
+    "url": "https://s3-alpha-sig.figma.com/img/3820/d761/5335c130f449ac34a4d8b541aba155ea?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=NhJ8jLowlRRpebzLiZPbttIa1uBkLSFrxipuD3UOHz1P9VIwaaDz~BndTuVSoSYP3I-unLkhNwOXgsLUciCYs1AeZ1ZGSo-BoQOz20wH7CO8nXls4eFkhnOHnZSQ~hqLbLCplawl4hd0rY59q7UNrGnSBwkHGgXpJMH6j~8jksNSvltpVRwAF~T-LEZn5nqAM~ghEEacyaT2aies9lFeJ8J0ScbiMFlICV9N4Rn~468keJVKDh47PZdx0MzzU7Lgc9qTk2dFgwRv60ATwhkCrtnUjhG3qiKf314X761XEQfJAG12bNLom2SDKn1Ey2r--Md2mxQP2o86RJ80qpaJ~Q__",
+    "box": {
+      "x": -33084.87334942818,
+      "y": 4948.01953125,
+      "width": 363.73851895332336,
+      "height": 411.9641624391079
+    }
+  },
+  {
+    "id": "205:8031",
+    "name": "Image",
+    "path": "Traveli > Body > Section > Container > Frame 2 > Image",
+    "imageRef": "c380662450036a61559f09b0338af7cc8e289ff3",
+    "url": "https://s3-alpha-sig.figma.com/img/c380/6624/50036a61559f09b0338af7cc8e289ff3?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=rHQ7-Y8nthM1E3FuYHhfmEIDiXPouKNX10WhPZmUOCMLGdVk98tqLJ~oJ1EdlQnr5-NCkdnNNRYuS4~i15U0CcYwkPsP9w4Piel-SVk~T-nQ5bOcE6S-r2e5JJncS6~ngAN2glvLpN7aUNq6ZxS5StLr0Fc4g0r4qwMNKfttFopgFm2af~75UQ4dUT~SIec6PP5FwrTAuMndMBRo1I6ZuhOYTSKfxtWANNxGMkQAqWCpCFwX6EWQi9RZdc~4jOf6hKBcdxYLCYAurPRpzhMjCKddRCdc1-UKD73re9TFHdSbmrgYIhGrED9QxnewGbwbhfIRZIUuuhtoFEawPCzREA__",
+    "box": {
+      "x": -32679,
+      "y": 4960,
+      "width": 350,
+      "height": 400
+    }
+  },
+  {
+    "id": "205:8336",
+    "name": "Ellipse 1",
+    "path": "Traveli > Body > Section > Container > Ellipse 1",
+    "imageRef": "50dd16ae1867c3b437c40d0eea2909451451ae10",
+    "url": "https://s3-alpha-sig.figma.com/img/50dd/16ae/1867c3b437c40d0eea2909451451ae10?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=etFKHec24PGujYrBi3D7YCf-ilhgx2vWpl3PCQhA9Joe6QWyrJ2Ib2flUao5LJPZnWrwH4OKPehO3FVRazC2n5QFyAsSXyyAmCX0vLUGYDWVBbfWQZLXXHKF2tRB8oJQFAtfH-Cva8hG5jxG2sEYA2yvo4uXvSbc6zqLa8D8zpGma2A7dajbxkJx8p-3NykVtaZZtZKuOug30qoa1ugyt2FVAiDLIU318MsYvLr8TEcsHqtiedmQ7vC6hxpG8gulzLpqNOW2a4YKY1InchFGtxeU0Mwcn-LFM1uVc~EYuQ5pIEvOGNSH6HqQTXhC2SAl88YpMmVXkNsNDdP-~AyCBg__",
+    "box": {
+      "x": -33694,
+      "y": 5626,
+      "width": 122,
+      "height": 122
+    }
+  },
+  {
+    "id": "205:8338",
+    "name": "Ellipse 2",
+    "path": "Traveli > Body > Section > Container > Ellipse 2",
+    "imageRef": "02b2704ed2a4acb89ac8adb4172c3cb82a0ee9f3",
+    "url": "https://s3-alpha-sig.figma.com/img/02b2/704e/d2a4acb89ac8adb4172c3cb82a0ee9f3?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=ky2rKQp9QP3WTMhMLyY-ILklKGUp9x-gsm4c9rX8nOBlqgLSoqcrNiIV8iLnSWoGhBeA-jYMY666-koGhPNlEckz0cubIMcOZceiKkrTbsGawBbumuolULqF8JsvjYyiH3hxeGJNM-RKdKWq4EUkZ1CHnVPfOhr7uSXQ7uQFwrfao5b9rwZ-L2vdjqI25efMwGF4JBvrYY6oPFTNnrD0V9my~mxZZMW0QYve7zNmVuqYWbfUbWiXOj0jKvxXxQa96ORm7T1x0RAR72CBZJRosZSdUA9JsZu21FB2l6kjd65M4O73IQsnsPiVyE3zALcqRNI8dNAc5X2NX6ZLoU7Nhg__",
+    "box": {
+      "x": -32626,
+      "y": 5612,
+      "width": 136,
+      "height": 136
+    }
+  },
+  {
+    "id": "205:8322",
+    "name": "image 2",
+    "path": "Traveli > Body > Section > image 2",
+    "imageRef": "c7f5d4d8bf9fdfd0624747d2c2a2d5377e351870",
+    "url": "https://s3-alpha-sig.figma.com/img/c7f5/d4d8/bf9fdfd0624747d2c2a2d5377e351870?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Hlu9s~8jOAhlaVKiaZioBMEK4OsCO7Vxo2L4Jyh1Gu~wxTPe2LSDnAzSjXIsCs-c~inZH6gxtbBkwv~K1iFFWXVby0UZNJxjsOgd4g0IDDex~82yHgr~0xIBQzQqmRUcROp7G5Ilhb3S5CHSpeHDJ43DJ26dMvatmB~eIYJAL-qMf-IEWFo7MleWj~t2Fye-AgNvNYDpE1tlQlsPCT9gq5wPtezx7wgPKYcPsjH2xClHt7d-EZQnzZPjMBTl2U0gS1qrLAp9ZlYuhsUM8lpAQ2frMEjmHY4GRdJil-UHRTpaXPSA~z42HaYW4GmBXhgp8sZ2FwPhfU0wJvdg62eZBA__",
+    "box": {
+      "x": -33551,
+      "y": 5284,
+      "width": 1049,
+      "height": 442
+    }
+  },
+  {
+    "id": "205:8340",
+    "name": "Ellipse 3",
+    "path": "Traveli > Body > Ellipse 3",
+    "imageRef": "a00ea6c7c8f939a09af2bedc7df3c539c3ba57d1",
+    "url": "https://s3-alpha-sig.figma.com/img/a00e/a6c7/c8f939a09af2bedc7df3c539c3ba57d1?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=GpHmOa980RHNc-hC31hxxpT6zQxOx~VSjIzNqnO1LX2SO3ay~4PLZh9BvH960IolMy1mR6Z-W8ercyUQgKrcpwviz1dFeM9h9UuMca7q1IugkwyW-tphBUyDC2B91jV8V7Hq2Eh5dhKPrYySM0CCshFfV7HWrrW7Ql3Gg43zDJcZva2BKowHd6irGOk6Oh7L9~bk4U8b9txTm-j3MyyhabXpjKp6OqEKYvUb-DzxLqQhNLR6rEKZbz8mdFcg6Wh2zdkYREFhDnpqF2fOOe0ddeEIX6m7e-wZ-kmeBX8-onqWmOXNYALLzEST4Udw0yJk1NclJQC0ZZyuyiDLa4MniA__",
+    "box": {
+      "x": -32550,
+      "y": 5809,
+      "width": 60,
+      "height": 60
+    }
+  },
+  {
+    "id": "205:8339",
+    "name": "Ellipse 2",
+    "path": "Traveli > Body > Ellipse 2",
+    "imageRef": "3e11c7ba56684abe83da249dab6cc9ad95a89983",
+    "url": "https://s3-alpha-sig.figma.com/img/3e11/c7ba/56684abe83da249dab6cc9ad95a89983?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=eSZFGHVsLc7cQH-IQIFP-s2VD0h1INbYrxjv6X~DYbstvsZ-oPr9Kj8iumM5vrz78BDjiNqhMuMRTIOpJdyBkb~ufDyK~nUXyCVU6E5obVcgjCO7OtAsUAP-eyDpyvcab-xBQD2dahJxIq6mh21GvERskzH7uTnhL4Zs1X2zT1D75yOcz9HhnG8lwIql1xcOHCk2Na~q8a2ihkjszVCSGBth8yroH-OjgzvuMtusaJ3TE2ZEyK7oaOaeUoUQ8o-sq-9WyaU4qvQS9PmFTYTCA11Ym7zRZnaJ9KlpLWHpeqLa6EFk5X0SBAEZ07euJSL3RB433ZZ215xXw5G3bvhvXg__",
+    "box": {
+      "x": -32784,
+      "y": 5771,
+      "width": 54,
+      "height": 54
+    }
+  },
+  {
+    "id": "205:8337",
+    "name": "Ellipse 1",
+    "path": "Traveli > Body > Ellipse 1",
+    "imageRef": "a42861bddef7e66e7a0e5a0a86041bc19f368105",
+    "url": "https://s3-alpha-sig.figma.com/img/a428/61bd/def7e66e7a0e5a0a86041bc19f368105?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=HswIo1PWojCbHCTsjh-urjl0xspkUc1LXzWRg8uJw-hoC8PhPVouuUmAYPTFaM7mA4mUd-utuobpAYSnnt3BtiQJwwqs-JpbW7CHIas1yWUa0jGm7VZOXftPBEjHU7en3Pg6dyXbeGth1cSU19YzMIZg5MLlp~6Lbuj9~UQeCwPjjYhCA8TkOt1BEuH6bjk9ssB-UXwr4Fl200qbvsLIhPnyqDk0asFkh9YBiO87i0nYK~1IRuKG3LC6ym3-Apy9i01~LX0Q8dR1eCPic6elRQx3WysjNlI8ZfujibFvaa5Rh37GPmXXWgUzzPrSNhC3I16lql2ymkfgHP8meNceGw__",
+    "box": {
+      "x": -33507,
+      "y": 5771,
+      "width": 76,
+      "height": 76
+    }
+  },
+  {
+    "id": "205:9194",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 4 > Frame 3 > Link > Container > Image",
+    "imageRef": "c534d6f7e4c850689b926b85136b27fa41a279a1",
+    "url": "https://s3-alpha-sig.figma.com/img/c534/d6f7/e4c850689b926b85136b27fa41a279a1?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=qpfQgefZQCzNoFa-EV~ET-1MAp8-1jsnkZfWgHRFZtIuEbrW9o6jGxypxcdjQBT4IYPrJBDhNRvnoeBV~Xa5qf1bWIT62Ku7petSx4aSdMKBfCEc5q6RvKpTAH2JL-Iyk8XId9DPcfRnJpk1hi1nj39OvfHRA14N8XQgOF7YORofGN6nCP7ViAbiRHQg6fbviShzq0w5Rbak4ojkIMG7L1~NOQsSKo4OqzIdOuHdYIw2k21duDvNY6oLd8e74YdjP966o0GHNYlHv6Oa4Pb1oAsE692aeVEYoXzhiGI3GSnRy0aOCgSZi6ac7ZR0H2P9475sg4iysbsyCJDThpZ89Q__",
+    "box": {
+      "x": -33755,
+      "y": 7393,
+      "width": 638,
+      "height": 400
+    }
+  },
+  {
+    "id": "205:9207",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 4 > Frame 3 > Link > Container > Image",
+    "imageRef": "d66de8179eda4ea36d2c9d15ee61bfd3a9374786",
+    "url": "https://s3-alpha-sig.figma.com/img/d66d/e817/9eda4ea36d2c9d15ee61bfd3a9374786?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=YuC2vkN2WcCRIFIY56AFvxalVB6Y5iSRfyTVg8o4xMPR6ZZFgTQdD9c20F8g~JX5o~BqWQKHNDww1R68kV7QIviVLTVGVJ8wfKU~ufZnzLmJz8NI6ygtZKzjHW82haElp0pswfCDex~T70JgPCUfERZ3eDKtwvlpsdFhhYJXFYZarqgGpKype2lI69UzqQ1W5UkiJbdTeXVDABaA635Y0dBOM5b9o6d3EogvTWqAlspBg5SrMYnOGSdyWHXG4GIjf4B-7Xg1~pND6XIPOs6LOVqFY2~UTl3hyD-sMfJ17As8wypAh-P6vFzoHP4VpgOitnhgLSOYl~OhNq4p9FHaiQ__",
+    "box": {
+      "x": -33743,
+      "y": 6849,
+      "width": 307,
+      "height": 400
+    }
+  },
+  {
+    "id": "205:9219",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 4 > Frame 3 > Link > Image",
+    "imageRef": "05fe878c0c790ec9bde6ab4aaebe2918c0ce090e",
+    "url": "https://s3-alpha-sig.figma.com/img/05fe/878c/0c790ec9bde6ab4aaebe2918c0ce090e?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=sa0P1WGeCmNHrc4W5xKGLX88ObxIZGwVljCBmGD8AO3fGKJ6U3QsqLT3xBMxK3NS8Woi8H0Ur9biw0lTgAXAVWiIBGrat2EfNqniBG1lueZcL1Pi8KbNeJ24jRss24SoRKlFXDA1m5jUes75h6s4nbW2lsvDqNKB~5HZXdRuEYShA8ztUr7adovnAWwSgmGuHRcnATJc476Uh5b3EAmE9Co10QJw30akhLzDFjfjtmxMg0xP50eEa56wAqktjQ2b1F3LKeqotKugebpocSTmucapcTNWkY5fjIPFogtQIhIozX95wp-zcst3qIwmU-TdYX0TzcBpZip5gbM-M1nWBg__",
+    "box": {
+      "x": -33412,
+      "y": 6849,
+      "width": 307,
+      "height": 400
+    }
+  },
+  {
+    "id": "205:9222",
+    "name": "image 3",
+    "path": "Traveli > Body > Frame 4 > Frame 3 > Link > Image > image 3",
+    "imageRef": "1555823f61a7619d4fc22b3e4545fcf8272fd394",
+    "url": "https://s3-alpha-sig.figma.com/img/1555/823f/61a7619d4fc22b3e4545fcf8272fd394?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=nVnNcPbDIYLiX5yIF1hXAL6AKurXlYXiDB5q2iDfKd03q25QXUahAnqNqva8y-tgO9qdox5C9XTMpsTtW8pa3yLZmEc5vFgM9PnC9CmkMV4Eoxc8MZV93Jt9~U84btLEXpR3ZzRti8VaAjAEmzhHIzVyGN1Y0qUoWQtiJhP3QYqR7-TLY9RIy~CwAgf7-LCPiVC2ZYnCQTqyice1K7rOaZPmHGpMwuEEUFxFGndA5sitvsezCLSh3HHtFB0LjK11ITcKmwR0Vs1D3pSxzx4h-z3pvfx0MigLNLfnKhDCkb3VDSV~vmF5HkSQxtpa5lUW1lrY-LH6oh-4p3Gmx7BIjg__",
+    "box": {
+      "x": -33412,
+      "y": 6849,
+      "width": 307,
+      "height": 400
+    }
+  },
+  {
+    "id": "205:9233",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 4 > Frame 3 > Link > Container > Image",
+    "imageRef": "302e3c59543c057b71f9d022bb3a7af2a7c04668",
+    "url": "https://s3-alpha-sig.figma.com/img/302e/3c59/543c057b71f9d022bb3a7af2a7c04668?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=iFJLNexqgcBZwW7U43Se-SahqOOcfVZtf1VigdP4nHm98tKtpRU1KGFmgnJLqsekeuomlhjgWW-CTVqNXhTGezuLTK1n-v~C8DvY-9o7vbPan2glnQUfRq6ZKnCDNICWNXxgcUC1buWRqf9nY-e7BVCGCFhlFCbjay6Ttl4dEbVNX~GEQIXknl9qmEleGApNRuaLNQ7FQaqwmKF289-ewM8J35xBzWkzeJefInpbOe-Wyk4iCeYwrV3NHWWJj1Tj8qss8sgzXKnE0FjIz7CJSF-wqbvzZfdxZSfACuBwJmQLkHjTncfS7eG7RU683R2NJrlegYRWqS9UDZYGRGcZfA__",
+    "box": {
+      "x": -33081,
+      "y": 6849,
+      "width": 638,
+      "height": 400
+    }
+  },
+  {
+    "id": "205:9236",
+    "name": "image 4",
+    "path": "Traveli > Body > Frame 4 > Frame 3 > Link > Container > Image > image 4",
+    "imageRef": "e7d8f241525d5e6312d9a47dd40b6166f7fb0015",
+    "url": "https://s3-alpha-sig.figma.com/img/e7d8/f241/525d5e6312d9a47dd40b6166f7fb0015?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=mJskxyf-xcIS3oOIm7-XbBYP3900JanpzHhC1-gG55yM6868YX8t4qBTz4tkrswBtH2R2mp3XVV62oXf2eZCcWyvb3iV~nqLD-lCyAl8AiCQZAegCAzgvfRqNmOJrFnOMCUU-Eoxev5147RRwqjze8zbpzig8NAt3H7s9yvCZ-BOU2-AaU47J88ln9VjqLJqgVtkIeV1bAp6UXf5DrW7FSxXZC0rVJqFH6EYSgd78g3Q-XLK-pe3wHJWKOHQd9XI5yqo4lwyupcF8W1qt6xdmy~AjffGJo7CmUKLRqvNLh4dOiAuoJyNiVnFpc~ZWbf1b8rL9NGYd5AkB7oVZLGnUA__",
+    "box": {
+      "x": -33081,
+      "y": 6849,
+      "width": 638,
+      "height": 400
+    }
+  },
+  {
+    "id": "205:9256",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 4 > Frame 3 > Link > Frame 3 > Container > Image",
+    "imageRef": "f917d2108d105d29954fb64d89b6374d4a6577e9",
+    "url": "https://s3-alpha-sig.figma.com/img/f917/d210/8d105d29954fb64d89b6374d4a6577e9?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=eBHSNS79OHFvEYta6Zv9qgDv8CfEUywJqkihGyYqLwKNiXzNaci8L2DDbgAcTO2LeG2uSZe4YkV4v-z8XeZ52D5tfiQZxF~sVD8SErYDka5LfP8E2GauK2yLi7FVxd08T4S6K9wf2fx2c6e6ZEtSZNHjm87XwAE~rQBHnZZw4CIOvIZuDpIDfPSLhmHi2ZkXNCE91Km1XULApaC5oAjsktKaw-r6I~r4ha2Rn-zteEvi5ChAI2H0OqYtVsE0ZocaVv8TPeZavWpSEdOJ15v24whQ696Nucu0zsuQv7Peo5i2--mX9WfrHjVJrakX-C5~NQNouTGAH~-11PW~UbUVaQ__",
+    "box": {
+      "x": -33093,
+      "y": 7393,
+      "width": 307,
+      "height": 400
+    }
+  },
+  {
+    "id": "205:9259",
+    "name": "image 5",
+    "path": "Traveli > Body > Frame 4 > Frame 3 > Link > Frame 3 > Container > Image > image 5",
+    "imageRef": "5aaef751969214a59049e6cb2d8c1af28d36bac6",
+    "url": "https://s3-alpha-sig.figma.com/img/5aae/f751/969214a59049e6cb2d8c1af28d36bac6?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=OPrKPXm9jTGi7nOzBz0mMKKJ50zEfcbuGBgPZcecUetn5VAtGFcsTqVsvyIIsfkBHQrFXimOTgD208MEqdIirBReLRBCOMSj74IJrhHFZV0~Dwe5HZJWzAUUrt9~3cq-iTiYfade4aPpOm9HpBbps2sx012PTCFYDXbMWr3uq726ySIx0lQ9J6~FwRiX87AY3WOtC9bCICfpbjawVKMSIsYw6PkDDIQ3l9MlZtNM2WXdV4z~oYAh-55yb4zv92PVLJ2N4kP34WwWeHkrBQNa-40LJi3-S4x9QFqEWk6SNnoZU75~d23KE3Vg-8DuUjwqwmJ3~6Gl7OUryANMUALkhA__",
+    "box": {
+      "x": -33259.0625,
+      "y": 7366.587890625,
+      "width": 639.122314453125,
+      "height": 426.4120788574219
+    }
+  },
+  {
+    "id": "205:9271",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 4 > Frame 3 > Link > Frame 3 > Container > Image",
+    "imageRef": "9c2b97720e31324a37bfe5f98e9ba4cb9b51fc44",
+    "url": "https://s3-alpha-sig.figma.com/img/9c2b/9772/0e31324a37bfe5f98e9ba4cb9b51fc44?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=hDZ8qFFFQZbuXELILLTmYtDwWTIIEj8oNFanRXaqJIpHbsfH~k5zbU7lG-ZRIoLPudpfSi73uf1EPkM5iAMDeCV19-PAgBHBEFeOY-z3ePpKcbErxp439iND1aV6ifD-Bwu7XgukZs4CabUhlIgIlirdyW8QY-tR-qHOUjCn0hbXDEwwzc9FvTk6yXEvyRwT3GMat4RE9kPrViHlEIIdB5CLBVcB~YJnmWmic5jXnFr4DbiF181pa-yWvCwoYlQ-76z~0a6k2hHCF8mlx1p0iXyL87Kb8df1RLj8biqIDH9227~LI4cI2wD39hPSz4zTWMk2mykhK0ak3NxrxKU6tg__",
+    "box": {
+      "x": -32762,
+      "y": 7393,
+      "width": 307,
+      "height": 400
+    }
+  },
+  {
+    "id": "211:9409",
+    "name": "Video",
+    "path": "Traveli > Body > Frame 13 > Frame 12 > Section > Video",
+    "imageRef": "0ddeea0f4862206d99cbb1c79ce9935e0cde10f0",
+    "url": "https://s3-alpha-sig.figma.com/img/0dde/ea0f/4862206d99cbb1c79ce9935e0cde10f0?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Y2GdDYjPBSlimgUZ3o9HgrkpwTReqXlkUpviUK5hjH1jE95L5UXGF5zaqpDNy69nHNVzDKtfEhtJLrK~Z1QGMvr0MXQqz4tcUiWtpVkvIlNzeXDB2SsXtGXK9KOvqzXs0UbvcsVXbLscDo1c4ALnaM05cuLbGY1D-Z~QbcE4Tvrysy3An~3xjkVcU35wzLrZ6bClKlxlPqYlAnDW-k20ThCvCvNDXwmBDMverrCmtKAuRGKYk7Nn8wQuiYVrB31IWqNPgWgk3BEZzHKFmVIXtFvblUGSGzzqZAv8xV9DEph3eeHu~SQbpZjf4rFECBhH71M~Q9C-ZKt7pO6a1KDDPg__",
+    "box": {
+      "x": -33827,
+      "y": 8135,
+      "width": 1444,
+      "height": 954
+    }
+  },
+  {
+    "id": "211:9410",
+    "name": "image 6",
+    "path": "Traveli > Body > Frame 13 > Frame 12 > Section > Video > image 6",
+    "imageRef": "6fe691f6ff6ab68f8a25e0f8c11a037cc74e38b6",
+    "url": "https://s3-alpha-sig.figma.com/img/6fe6/91f6/ff6ab68f8a25e0f8c11a037cc74e38b6?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=rVr9kX0cRqqh~ljeW691DnkACtk0ZbojAROrAXm0Tp6b~RBRARasr~wFWeOTmxMCXSrI4pSlntXFfoJfHoINZoLYuULOfcsxzLYZGLeuEtKVjvbkMy5HWkUlziqfsX2UTfP2G~N86lyn5Ur7598yCeQCUnhZL7Glfu1HlPUT6l-F3IK0tT3QevvMSTX-VjeQniVsIhKSZN42BrBnYdrnhcduBonT3pCwd~XXPkFohEqsGurEc8arFmZ4xUxIzektL4CTJrw9J9~91Ol4XAswd442qei2O0Ae-JrLN7SzMAF7avwt74qXGxOhLehLUBfkG4sO6JJCRMWRQXT1xOxxYg__",
+    "box": {
+      "x": -33827,
+      "y": 8135,
+      "width": 1444,
+      "height": 954
+    }
+  },
+  {
+    "id": "211:9419",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 13 > Frame 12 > Section > Video > Container > Section > List > Container > Link > Image",
+    "imageRef": "729e84d84bbdc26fa96b22b73c0a9ab2e520fbf2",
+    "url": "https://s3-alpha-sig.figma.com/img/729e/84d8/4bbdc26fa96b22b73c0a9ab2e520fbf2?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=kPLbcJbR~8KQCI8q1BdR1--cod1~E3h5DjQK2ccLDVlbag06-H9mD4eMCHxBsTKNifyg8nNRhOvaC9bauxcpk19RoEfJoZBOuXf0wzrFa9bEgCH3wFvZNmYAysluzutadkhx1FCtOnIV1vaBDu3IA8iIZ8rGS81MhjYftBJ3eBdwxj2w0W6NTvfiMr74F-hpcAILgPu2PR7nfgpBLiKWhoRo5wAFShfMQNvNnP~OLnXS0CL3nMker8ObFqxFazHOqPplzH~EV3gfYGhIIusindKXTEPen7hF6oOMKcvXCZ9QYha8YWG~zHDkrKRgDys7DEEYzuN~jT3OkvHPOOIXYA__",
+    "box": {
+      "x": -33816,
+      "y": 8393,
+      "width": 400,
+      "height": 501
+    }
+  },
+  {
+    "id": "211:9434",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 13 > Frame 12 > Section > Video > Container > Section > List > Container > Link > Image",
+    "imageRef": "5ee2b172b0f5da8408b8e14e5f9653b29c8c858d",
+    "url": "https://s3-alpha-sig.figma.com/img/5ee2/b172/b0f5da8408b8e14e5f9653b29c8c858d?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=nRfPmV7PXWdBmg9qQvbFX3TR-Dqj7oQevx8~tY9g2YISRSwS3motamQ~13hExK6PlYPdwx5MrhqMHJxdecj9zF7xXDUgisHG-NoEDCOwLk1t6qZahlV3edsehlkQ3OOpx~nOqykDHU3yuLj2amsVmKr-SKysL4KL2RYoGJrgCHimjeJCeyiMDkhpggO5lOPHYcMA4u23wz81~4w6g23lvFH1UGVenBj5sZPx4hSDSYX35KCo7nCwfaQtBt4TuQV6-HCY3S0SY7JOwzbUaQ15bojLi4OynksfOshAzXN8H14tS6mJoBCKuM3CHgCHzxLvGI9y2K4C1kgkvrkW-l5DXw__",
+    "box": {
+      "x": -33366,
+      "y": 8393,
+      "width": 400,
+      "height": 501
+    }
+  },
+  {
+    "id": "211:9449",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 13 > Frame 12 > Section > Video > Container > Section > List > Container > Link > Image",
+    "imageRef": "3ee44c7d7064f3d5cd56365f8b03686638f85d6b",
+    "url": "https://s3-alpha-sig.figma.com/img/3ee4/4c7d/7064f3d5cd56365f8b03686638f85d6b?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=XIHBQvtiWbIE6h3CCqyYvL33F6iHYuBxz-hWdN9oAevaDMTK~1RoRgoMzJt3pEyIg6-ACb3tTkNR7MK3hSZnoQ8X43~kopNzFwGG6i2Go8w4FAwQM42~ZBjWpCe3N8d80QsxBU6vcA-6qMlCc9STPro9MsNUN3RL-bz4lHMHM9o7c3pt2ZxyJfr~tubPMMj9y-eu-BwIQvtFcwhNu3ZnN3VRSI0lO5ttnbQIHIkGT7urESvh7RVzokdJ08uKBg1EjD3UJOBtVmD4tPa7UaRw7dMrP4GWlMFChOSBlpRe3kv3OaP-FQUlb3NpzcRybI~APlus2IlcksaGBA4paBnpCA__",
+    "box": {
+      "x": -32916,
+      "y": 8393,
+      "width": 400,
+      "height": 501
+    }
+  },
+  {
+    "id": "211:9464",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 13 > Frame 12 > Section > Video > Container > Section > List > Container > Link > Image",
+    "imageRef": "9b728c61c342b9ad17aeac8531f927677279349c",
+    "url": "https://s3-alpha-sig.figma.com/img/9b72/8c61/c342b9ad17aeac8531f927677279349c?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=p0Lb5xZzPTfXtMZ95xOg0H1xJY~CpUXRajyp0pxD2lu0BodJ9F~3rfpJGLtgicflNtpbZQzLaDtQ08nLPx-5KSlno2kJp2G93we7kbBfBu0YAouJIxAzCxuwkk~71~VnUfvQ2DxbRQ1iqReFF6QMffdrDy~0B8kJvwjVqFBCaj1s31o2QYg14OmUvsV2NpBLNmJjxNVQS4a8kGHBKzZ7ZR~ONkVfdSvNsfqvEM7o2KBuGTvwR5Ms3FwwccIw1JgcED1zkR5WjQDSjYcu6z6X6MNcX3Lq7iU4R8QlRZs2gu8~VkrjxJwJZEhg7ZiUDKb7aScv-jSoNFVrzzZfShsh8w__",
+    "box": {
+      "x": -32466,
+      "y": 8393,
+      "width": 400,
+      "height": 501
+    }
+  },
+  {
+    "id": "211:9479",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 13 > Frame 12 > Section > Video > Container > Section > List > Container > Link > Image",
+    "imageRef": "62de3cf0d133d4c3a27d0072fd03391e6e8dcd18",
+    "url": "https://s3-alpha-sig.figma.com/img/62de/3cf0/d133d4c3a27d0072fd03391e6e8dcd18?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=RAwawzZqbiUKibsiRBQuMYNEYu0QJoLIs-h938DArf3iOJ9emBhPSeLJyikQYypZGRsQ4cgf-7ViBSqJPcmP~LcT4V~7rCgHDvHK9gAlBZdgo1kRfoJLZtT8QTi3mS1LY4rdyA1eIedIGiRNav-zfsOTnOAAv4hop8Zto2Zc9rTyqu-lT1iAqNwwZfC9vaAdKs33KUd~CLCobhZaixiq7751Gwa2MkAJ7CNIgnf9SYq53tYufLONG2QBfClaX6Z9rlCch5xx2n44MMLzwReDJ1NHhsi5tsH5nVHS3W3MeGgo4eJxeDKa0MqAtlb54fv3pwHxqENYwPpFqVgnvgYYlg__",
+    "box": {
+      "x": -32016,
+      "y": 8393,
+      "width": 400,
+      "height": 501
+    }
+  },
+  {
+    "id": "211:9494",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 13 > Frame 12 > Section > Video > Container > Section > List > Container > Link > Image",
+    "imageRef": "169cc2641f76386cd194db3420be17f6087fac8b",
+    "url": "https://s3-alpha-sig.figma.com/img/169c/c264/1f76386cd194db3420be17f6087fac8b?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=dn69RVrnisrsDcqIYyGWdZGUFbxptlv9YhO~~wzCevsto4hXXSHK-nUM0PqnN2p5~1CIhcNZNjFltUbyVlU2VJqvO5EbKhwhN-Coi5-zVytdCFENv6s0xKs5kK~CYEd4V4jaLWjpv3GFGx5ZUNg0whwy5Vjq1sSmf40EpjFo7PVqejt7wHP3deQwoGJtQMkQtZ4EjLa6IFxQOJBn5-IEW4FECncLhHOYua0idTiE1z0u3s3GFlF5Yz6eh5gpN7ycUACeA7uQlN136XjpmuQWjcoKM9FAq4PMX4rUV5FFHvIprJY05qCvJ0XPNXjYaUSf3~QV7JZk8OjmFEclfXPS6Q__",
+    "box": {
+      "x": -31566,
+      "y": 8393,
+      "width": 400,
+      "height": 501
+    }
+  },
+  {
+    "id": "211:9509",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 13 > Frame 12 > Section > Video > Container > Section > List > Container > Link > Image",
+    "imageRef": "8362e463971490c0fa541e43141750dfc1c96298",
+    "url": "https://s3-alpha-sig.figma.com/img/8362/e463/971490c0fa541e43141750dfc1c96298?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Sh8MYX4873ujKKUnWbn42J3OujIZO2dgok8O64evqJXd4xHtMcWSTitW~jR5z0Kq5Da5dd~LdLYA1vFq5RxC3sR1G6uW1RUlV5i156tXDMSpsKKLTnSK3tuDE7khADsUxFfHR-WwVe2csREg7WhhehYEivxAwvmnLf3KMbNp8jDMjxShIxPaDOjEtDnnoa0LU4rcWG7gqosa~J9yOheMnbC7InM~nAW-avUdfxYDNXIdeW39k3Nerso~j6lOBVbGadxXkF9arl1AEBnwecce~FuQNe4nBZXHOrCJxYE3iC6r6CSaewmHNtyk2GvAM1SSjPU5GDZB~~NOkgwcGDMntQ__",
+    "box": {
+      "x": -31116,
+      "y": 8393,
+      "width": 400,
+      "height": 501
+    }
+  },
+  {
+    "id": "211:9524",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 13 > Frame 12 > Section > Video > Container > Section > List > Container > Link > Image",
+    "imageRef": "62de3cf0d133d4c3a27d0072fd03391e6e8dcd18",
+    "url": "https://s3-alpha-sig.figma.com/img/62de/3cf0/d133d4c3a27d0072fd03391e6e8dcd18?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=RAwawzZqbiUKibsiRBQuMYNEYu0QJoLIs-h938DArf3iOJ9emBhPSeLJyikQYypZGRsQ4cgf-7ViBSqJPcmP~LcT4V~7rCgHDvHK9gAlBZdgo1kRfoJLZtT8QTi3mS1LY4rdyA1eIedIGiRNav-zfsOTnOAAv4hop8Zto2Zc9rTyqu-lT1iAqNwwZfC9vaAdKs33KUd~CLCobhZaixiq7751Gwa2MkAJ7CNIgnf9SYq53tYufLONG2QBfClaX6Z9rlCch5xx2n44MMLzwReDJ1NHhsi5tsH5nVHS3W3MeGgo4eJxeDKa0MqAtlb54fv3pwHxqENYwPpFqVgnvgYYlg__",
+    "box": {
+      "x": -30666,
+      "y": 8393,
+      "width": 400,
+      "height": 501
+    }
+  },
+  {
+    "id": "211:9539",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 13 > Frame 12 > Section > Video > Container > Section > List > Container > Link > Image",
+    "imageRef": "169cc2641f76386cd194db3420be17f6087fac8b",
+    "url": "https://s3-alpha-sig.figma.com/img/169c/c264/1f76386cd194db3420be17f6087fac8b?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=dn69RVrnisrsDcqIYyGWdZGUFbxptlv9YhO~~wzCevsto4hXXSHK-nUM0PqnN2p5~1CIhcNZNjFltUbyVlU2VJqvO5EbKhwhN-Coi5-zVytdCFENv6s0xKs5kK~CYEd4V4jaLWjpv3GFGx5ZUNg0whwy5Vjq1sSmf40EpjFo7PVqejt7wHP3deQwoGJtQMkQtZ4EjLa6IFxQOJBn5-IEW4FECncLhHOYua0idTiE1z0u3s3GFlF5Yz6eh5gpN7ycUACeA7uQlN136XjpmuQWjcoKM9FAq4PMX4rUV5FFHvIprJY05qCvJ0XPNXjYaUSf3~QV7JZk8OjmFEclfXPS6Q__",
+    "box": {
+      "x": -30216,
+      "y": 8393,
+      "width": 400,
+      "height": 501
+    }
+  },
+  {
+    "id": "211:9554",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 13 > Frame 12 > Section > Video > Container > Section > List > Container > Link > Image",
+    "imageRef": "8362e463971490c0fa541e43141750dfc1c96298",
+    "url": "https://s3-alpha-sig.figma.com/img/8362/e463/971490c0fa541e43141750dfc1c96298?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Sh8MYX4873ujKKUnWbn42J3OujIZO2dgok8O64evqJXd4xHtMcWSTitW~jR5z0Kq5Da5dd~LdLYA1vFq5RxC3sR1G6uW1RUlV5i156tXDMSpsKKLTnSK3tuDE7khADsUxFfHR-WwVe2csREg7WhhehYEivxAwvmnLf3KMbNp8jDMjxShIxPaDOjEtDnnoa0LU4rcWG7gqosa~J9yOheMnbC7InM~nAW-avUdfxYDNXIdeW39k3Nerso~j6lOBVbGadxXkF9arl1AEBnwecce~FuQNe4nBZXHOrCJxYE3iC6r6CSaewmHNtyk2GvAM1SSjPU5GDZB~~NOkgwcGDMntQ__",
+    "box": {
+      "x": -29766,
+      "y": 8393,
+      "width": 400,
+      "height": 501
+    }
+  },
+  {
+    "id": "211:9569",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 13 > Frame 12 > Section > Video > Container > Section > List > Container > Link > Image",
+    "imageRef": "62de3cf0d133d4c3a27d0072fd03391e6e8dcd18",
+    "url": "https://s3-alpha-sig.figma.com/img/62de/3cf0/d133d4c3a27d0072fd03391e6e8dcd18?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=RAwawzZqbiUKibsiRBQuMYNEYu0QJoLIs-h938DArf3iOJ9emBhPSeLJyikQYypZGRsQ4cgf-7ViBSqJPcmP~LcT4V~7rCgHDvHK9gAlBZdgo1kRfoJLZtT8QTi3mS1LY4rdyA1eIedIGiRNav-zfsOTnOAAv4hop8Zto2Zc9rTyqu-lT1iAqNwwZfC9vaAdKs33KUd~CLCobhZaixiq7751Gwa2MkAJ7CNIgnf9SYq53tYufLONG2QBfClaX6Z9rlCch5xx2n44MMLzwReDJ1NHhsi5tsH5nVHS3W3MeGgo4eJxeDKa0MqAtlb54fv3pwHxqENYwPpFqVgnvgYYlg__",
+    "box": {
+      "x": -29316,
+      "y": 8393,
+      "width": 400,
+      "height": 501
+    }
+  },
+  {
+    "id": "205:7434",
+    "name": "Container",
+    "path": "Traveli > Body > Container > Container > Container > Container > Container",
+    "imageRef": "c154fc840f9945a1467e5f0f28a7148bc895092f",
+    "url": "https://s3-alpha-sig.figma.com/img/c154/fc84/0f9945a1467e5f0f28a7148bc895092f?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=WBa6426GqkheDCOwZxMXTE3C-pLlhW7T8yPff8-28Ylv3Ps~q-q1pOwjHYLH8MXtzCY22vtl3xlZdgXjb9LeWPqxvWbfvz4nhZRhilz7RAaqydWaIDBf3~6VrrtnoNGr6QHGhNChfwA2xXODXaAJl3CBLkbOjBGs17V7I1JDydmGrxks2HozsOOqs4gtLCA-UqOK-xfuV31IZOD~nlyFKy-RAgCV4N5N41ZYsLSDNwLBtGDCFgGAT~Ab6YqAM4Y4K0s~dRITu96CIE8niBoe3bzctaDHRLV3nBk4DpSIFR~9~AuI2SSVac0TP4rJBlnjuMNsgwP-omHZ1jnCJKBrGw__",
+    "box": {
+      "x": -33477,
+      "y": 9623,
+      "width": 20,
+      "height": 20
+    }
+  },
+  {
+    "id": "205:7438",
+    "name": "Image",
+    "path": "Traveli > Body > Container > Container > Container > Image",
+    "imageRef": "6a243e54d7b99dba6b38179ce62eb68f4212ebb4",
+    "url": "https://s3-alpha-sig.figma.com/img/6a24/3e54/d7b99dba6b38179ce62eb68f4212ebb4?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=VrCUjfx~oIC~U6lW8HMRKBwpNZfS3x3HdpdkFu5p~o6~lR1UgzFUQNYmFFNE7yIvXzNyMa4wpI2QKrqD4Mj~xscDeeVp75go7ddt7eUiRF~Qiv15Dp98g-G3J7E0vnShtEqahYwj0KQ2LLNd1B1N733y99SC-q3wDHyMk36HuOHXwiu~vWwxBASK-ukQcf0LZxi1Wf~XG87A1InYMIfhN3I6wrAeWTS-odAsnwdBrkrWDOTGtS8gct-FGEpqNFAVialzSmfCPkZvlqu2bx~XnmpCyVD57x68RHqBdL8MQOctkg-jFSdqhGFwaMqRsuNh2wIEnudgfa7L9cefmFHoaw__",
+    "box": {
+      "x": -33713.75,
+      "y": 9789.25,
+      "width": 337.5,
+      "height": 337.5
+    }
+  },
+  {
+    "id": "205:7470",
+    "name": "Image",
+    "path": "Traveli > Body > Container > Container:transform > Container > Container > Image",
+    "imageRef": "15e2c5989ff11b9764bef80ffa6b97cb5047f92c",
+    "url": "https://s3-alpha-sig.figma.com/img/15e2/c598/9ff11b9764bef80ffa6b97cb5047f92c?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=l4a159KgQcVrzKXVZHQ5EuNoCyszPjUcWif05RaeY57aCVsEUomLyXkOCCo8g3Bp0KizdanoicHtnLyKvR0Y-zOpvzsPzCdQn9WCqby3tyP8HLml8jz~YpQdTmM~-Ve5ZQjKEqgH8PbZZtcYszXL3y0olEDuzewz6LhdooQha9G6vEmepQJLET-v1nYSvpkK9H7U~YKj~JgYPzWY~VXOpXwvHeSoP14~CIkePahe0ftJ2qGgX4VI4O8hOkITrCnNlXBgxGmGwuGLY6VWMK~Gja3ZarsAZ-NesanKmp5IXLENq5oVS3H2ObQS-WLCIc32XbwpLyQh~AvLendUtVgcDw__",
+    "box": {
+      "x": -33305,
+      "y": 9891,
+      "width": 400,
+      "height": 92
+    }
+  },
+  {
+    "id": "205:7479",
+    "name": "Image",
+    "path": "Traveli > Body > Container > Container:transform > Container > Container > Image",
+    "imageRef": "b21109b370ce16bf182dd451ed9cc8c1cf187924",
+    "url": "https://s3-alpha-sig.figma.com/img/b211/09b3/70ce16bf182dd451ed9cc8c1cf187924?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=FZaQY2aY1VzknrJJh7BswWtWR61q0RljBINDSyt3Uh-0deSL0z7b2KXyc5EUYj2gvUNe8lX7G6~EyxZLIaNFJvPvEijbT0FKT6PC74qpRgPXAD~3z2MUASlpH0Goa3RfLFPOiHanx4IdnIV4OuIICmtis9lG1KGJv0PEuTa5go2H9wRmaJ9h0YDw5lCEoV4aVNwgVVZnYVWDS3P~YTicNYs5IQnC627O5GPMPdQZ34EFm8kP~7YpVUmVXJmotPKT3WAC5GdTS~Zr06w~ybyn1DMQu5BsrzAIS20h4aMhxzgdXBO0EsambdQZQtFe-MtHYP0cwr04Z33jXmJhd-h3rw__",
+    "box": {
+      "x": -32975,
+      "y": 9912,
+      "width": 50,
+      "height": 50
+    }
+  },
+  {
+    "id": "205:7506",
+    "name": "Image",
+    "path": "Traveli > Body > Container > Container:transform > Container > Container > Image",
+    "imageRef": "e6bcb7c33af3a018f294c8fab4f1aaf09d37d814",
+    "url": "https://s3-alpha-sig.figma.com/img/e6bc/b7c3/3af3a018f294c8fab4f1aaf09d37d814?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=a0NyxG1ijPOUfbK9D5JvDbJ943loEUlF35SxAT~IBMIfs7KfqHF9xJv0W5kA17kkIlmEEEN4QBOuAqCJrGNKzszPjS0uCBi~p~JyOTLEkysZffo7lFn3e7EvaxDADvxRahhZFHw0Es1mXvXLFqkhgxxk6ZzjdaJ9rA7tEkaVJEEGAnuww9Uo5cEFyBz78YDtqLK7ExTzhscmB7RYPZ6zWlz8qdhw~oUA8jPBF3pc8DJJtNBW9jzNPFgTZUv1HvHWD8Nd~ZNzziDhfeSjCqY~IiAMKLunSOl2jRk8GpGySLBdlPQFZ3z1l-sPFZM0e4kM1-ohOgV~Lg2ivB1b0hQr7g__",
+    "box": {
+      "x": -32865,
+      "y": 10151,
+      "width": 400,
+      "height": 92
+    }
+  },
+  {
+    "id": "205:7515",
+    "name": "Image",
+    "path": "Traveli > Body > Container > Container:transform > Container > Container > Image",
+    "imageRef": "c4d9c2cd4a58117df24e1540f42cb36503cb72a3",
+    "url": "https://s3-alpha-sig.figma.com/img/c4d9/c2cd/4a58117df24e1540f42cb36503cb72a3?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=p7qopIJTXuu4Y7zu0SJgQyuvkFhsKKw2QnDhaxKM5l2QsArx5g6Jmb5ib2cLiLlynH8V0GtJV55HEl217LQjnZwWVPyylPCeO1FdUoeosHME-wH9XTl-XYp945Ws4p2ChlruU8~GtkWpg7g3-T-9BcWL1zA6ggS1BgwiqvXltxS87wBYdZEuPaVkQZ1-UqGRjpe5fcYyVstOhOIc0BEF6Cf~e5dQPyFqjnTCSMqdIRsB0hJyYrdJRwe0D5zGTAyXND~5qH6ht7i~9I0l1SBwq~jvQi-35InoZoU2VPih0xsC6NzTLTytvj1ybrzLLbh0fIegJN1pMWOICXtcjyXMXQ__",
+    "box": {
+      "x": -32535,
+      "y": 10172,
+      "width": 50,
+      "height": 50
+    }
+  },
+  {
+    "id": "205:7576",
+    "name": "Image",
+    "path": "Traveli > Body > Container > Container > Image",
+    "imageRef": "39db2210156d5a64f9c7f44fc4caa7cb61e2f3d6",
+    "url": "https://s3-alpha-sig.figma.com/img/39db/2210/156d5a64f9c7f44fc4caa7cb61e2f3d6?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=bTF7WA3bLhZCa~dR7xmgHOlbkrKZrmOdm9QJrvFPGwFEM~D6FOlkqUQ5EnesNO2OXOK0GIVsOs0YuHufw~fhpn1d2uctq5Y7m3wCcuUlCp7ko26bcCb1oukH5JdSymF8n8xhCHQVvfFt-9b4y4QHoFqaMuONdd9i7C6mT54RPpzYaRtvIQI02hJrmbMDjVUZPmbf8FfH8AmqfRK8g3pqVUWjC5eAwDNfaQzKtWn-R5TKgkbv-F9v61I6A9MIRm7i9QKgAbUTsaL3j~3bgpVB1x3aH60ms5-whX0FME99wG5-ywc7mcJhCcS1ckDS47wV4uNzjAJIsmUWzH1rwEYPQw__",
+    "box": {
+      "x": -33762,
+      "y": 10974,
+      "width": 1300,
+      "height": 338
+    }
+  },
+  {
+    "id": "205:7584",
+    "name": "Image",
+    "path": "Traveli > Body > Container > Container > Container > Image",
+    "imageRef": "d8c5235df3fd6b71dc86f66c283ed3366ea17a81",
+    "url": "https://s3-alpha-sig.figma.com/img/d8c5/235d/f3fd6b71dc86f66c283ed3366ea17a81?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Y~ztC8BElEjzbAoICvbqCfbvQVOamCW3PXYdGgYswkWukh6Wdo9TARfg7vOtDyzvk2xYyfqAXtMhhGMZNYZd~V-uru5uAcbD~Ok-2ouiffpLXy7RSvpraAN0UnhXTXMRp7wcXb0LN8SMZQoibSbBcE3ZjDR6cuP111lpEbbCnKhxHW85bl614n2JxAkgjiPFhfZTpt~epJagwbAk2Eo8uCA8EaVVUBhrzLqeUEiMqjO17Y6tmfxM66w1kwZnOMgsMGq7CrorPP6kLjy08pb5d45Oa-0YC-FYJ9ZeKP1X2RqIOtannz0QGQ-Ns7D9nz~h1QexLo8BLd8mPFCS0AMOlQ__",
+    "box": {
+      "x": -32931.88671875,
+      "y": 11035.192038621299,
+      "width": 164.61461984478592,
+      "height": 164.61461984478592
+    }
+  },
+  {
+    "id": "205:7587",
+    "name": "Image",
+    "path": "Traveli > Body > Container > Container > Container > Image",
+    "imageRef": "d2acc3488cd769e5429db9b48d06b8b1ad01bbae",
+    "url": "https://s3-alpha-sig.figma.com/img/d2ac/c348/8cd769e5429db9b48d06b8b1ad01bbae?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=EWn~5UB2DlP-4yMTEHyqTAf7Iu9f0CkvaBYfZC0VfplTb6S6D1khx6MXjWmPLEQDrEE85d4rW-4baGFtWODPgZShH0lD8~JkmG-AjDmGvW2oaZH8~dj0tUlcC1PwfTLQ5Q3tNh5t0GTHQIbUxF~DSFC1SCyCaS4Bf5KrJe2ZzDFBXfX4O4Qk-vKzaeEhZeMSSzcz7viHNbTJX89-KbeHTl8icLg9G7Mnsb3oFxYaGpxpCduyeSuPXWu-qNTyBJYdx4F9k2fsFVJhuXtpZuwhjYDmziS78nV8Jv0R4PyXTSF1KaRBhv2ccV2e3x7nfZ~bABTDZ0PMpRbRCvTWroX0gA__",
+    "box": {
+      "x": -32813.30077886581,
+      "y": 11035.322265625,
+      "width": 122.60249744317844,
+      "height": 112.3537960407084
+    }
+  },
+  {
+    "id": "205:7590",
+    "name": "Image",
+    "path": "Traveli > Body > Container > Container > Container > Image",
+    "imageRef": "40ceb07bb7fce24b9bafc4f652bc17d44650fddc",
+    "url": "https://s3-alpha-sig.figma.com/img/40ce/b07b/b7fce24b9bafc4f652bc17d44650fddc?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=HRe8kXqqJbXRjgVferSpX2LOeNNlgQwqqlG04CijxrLFlb-TfLSAn4z-MAjERFB-FwfX8fEoMLRadpWOf6QFZsHYVvWbwMT4ePXqljvxKMepZCWkQJeKJEz8~mFhVPv1NKyYMmv4xy2A~OIy2SZy3ifN~jPeckiZOYgPxHrPFxRoZ8sQn0VTGyWQ5ZqEvodckKmE86pLPUDbkBI8mabUUL5GoEinqtuebUx61IyEd1yxODaXTJgAsC8YNXu5DUspaPgVpQy9IBzsxJJOj6948k6niFmR2I1r6rIps~2n21sXkQIvwVZSV4LgasFfzB1zWy~lN9CekWNWSRhykHIJbg__",
+    "box": {
+      "x": -32859.7578125,
+      "y": 11121.970812324253,
+      "width": 107.5158860203519,
+      "height": 121.05920764029725
+    }
+  },
+  {
+    "id": "211:11340",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 16 > Image",
+    "imageRef": "5ce07a606c9de1d5fcde3c79d3b760818a43b91a",
+    "url": "https://s3-alpha-sig.figma.com/img/5ce0/7a60/6c9de1d5fcde3c79d3b760818a43b91a?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=R2Y5g2eCdQe0Tb6vCWlcy7qtxfvGpca4CycIWO~ShTrpSebFwnN4WXNlFFdrkR-PNDqKuI7zn7Pccwg7kveslpQTreLtbIRFHkqjUgXclU-L3l4wCh9QN2k1esRiLXUnPzczt5aPGTlOmRbFMTbA8kcAtXH3suta7q4-pDa2SP94vutKk~UVOL9mhx6~ziUTU7BNWKpoJi0Jy8bkWZZFyBneAdkzHwgwP4g4GbtBi-6goL7JLRoPlC3qCx48wOmWpVxG7ExQCc4-lTD~~quF7lPXi3DLlYtR3oSIsKTdheZbEoh2D5c3iKZKIF7iIoVBit0LUxsujd0z1fa7lKOyUQ__",
+    "box": {
+      "x": -33820.359375,
+      "y": 11564.640625,
+      "width": 339.6116638183594,
+      "height": 537.7184448242188
+    }
+  },
+  {
+    "id": "211:11341",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 16 > Image",
+    "imageRef": "ad5f65ba8949416de2c113c1872bad4ec91929aa",
+    "url": "https://s3-alpha-sig.figma.com/img/ad5f/65ba/8949416de2c113c1872bad4ec91929aa?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=MtPpyZMko8dgChL3vjr6Gu~DhTirzRNHrgLgbBejLut~m9PhiuWCl2riqCVlhtx5IUE5EIKL-e7zC2W45F77Q6gf09NWMbrHdEx1e0K6bnKd7HuFyqwXSoMNNDwrLr1tkMX7pqn6XBeLD71V88tZLI1GnN1KjNBrgi6Sb-KlBRnjlKKxTjuQbvfCOMSg85hV~bIaA5kFJ0WVRz12ijt9D7wCm5hnYe2cQDfSU3VovaY9PU0fsag0AnrbpeIye1dQlY9D0xTgvTUPaJwUN9p3f74kg0OCLSG7zw3WnxYu4wDEErHTJpls6mwqS7jz40PSZvHZ1lOL6gzu5V58NQGhBA__",
+    "box": {
+      "x": -33445.375,
+      "y": 11564.640625,
+      "width": 339.6116638183594,
+      "height": 537.7184448242188
+    }
+  },
+  {
+    "id": "211:11342",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 16 > Image",
+    "imageRef": "33715cf4619a7af6f90ba28e87199e8fd3fa1899",
+    "url": "https://s3-alpha-sig.figma.com/img/3371/5cf4/619a7af6f90ba28e87199e8fd3fa1899?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=VmYUPtwHXGMa7XEgX1nIDOb6JftoOR7gP61mkpglM5BFkP-I3jj-nLSzk4o3XghRUyUrWBWbVMuojcl0NVPRk5uLjgcF86cyk6ZZWqG0xEdTCMtRJ4DVzYOpTmaeQLvVMBUDcacv4G~A0Q95kw7S0pUw7TXhCu61RGs3o2JWLynftm5kDa~-lRlRUHWKV6TH6MinbKgif5yhuSLXVy6FCrzwqDTpstyfzHmsxG4tMbSaiz8UEwOiWBMUr-nuc-uiExerXKNADeKPSKx9OXSYjWYmwZmMk1kvDq2sj9-Jmk1aXbx3Mevm5yEoYuKjnK1JqTCX8FSGk8bUtnCJ80XtGg__",
+    "box": {
+      "x": -33070.3828125,
+      "y": 11564.640625,
+      "width": 339.6116638183594,
+      "height": 537.7184448242188
+    }
+  },
+  {
+    "id": "211:11343",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 16 > Image",
+    "imageRef": "656ef5f8313b75a1d849a78078bc3b9e633d2fe9",
+    "url": "https://s3-alpha-sig.figma.com/img/656e/f5f8/313b75a1d849a78078bc3b9e633d2fe9?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=uK8jZib6EIJPOjP4cuZDzwNOca1b3moHK3RW~CYnPKQqvdaLcrHwkTlp46dIMo28jEMzrHI4AypFEdXhiQqrOyN9J6tPvflvcns6lo~6H2BpFUQaQOX0GxxL1tAEUUTLy3BG4KD3v6hQWJIpwVMkJnS1ZcjT3kGgqKAy~lTJCfeHoqZwo-QVIgP2F2XQhus2NwTI5O1GfTMsv3qdQgeeNxWlBsFrOb2XW-dQmO4~RlHl~OIoT0Xoz-wQMXzIrGtqvY~EnHiwSZFVGaA33zHN1GybqyaAC0ku7VyrKG353ZjGBenu2sbpcP4tDtjiH3ZQF3~9U2VRWjS1thH0AsjPNA__",
+    "box": {
+      "x": -32695.396484375,
+      "y": 11564.640625,
+      "width": 339.6116638183594,
+      "height": 537.7184448242188
+    }
+  },
+  {
+    "id": "211:11344",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 16 > Image",
+    "imageRef": "46a8f9b790e0d2fe6bf1a0b21300e22657b55d31",
+    "url": "https://s3-alpha-sig.figma.com/img/46a8/f9b7/90e0d2fe6bf1a0b21300e22657b55d31?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=gdjj1PxmcujI4gVETMfSTbNq0~vFPYMnlvygBgBLjQ1HtCrnIVT3eX9dJlCrXq1rMuTfxoysWe7fC2vjDPy3lBWGofcSeaxf32sJgcuou1YAq0OfuMpVtg5-M1S7hIIn10SoDYQ1f855StXBhKQhbRWAPBWjPvhbjE6xAfhD9zDDBWgkOuBqym0v4U3kClDpF0Zs9Epl6lxVGIGdkq2Yz5uQB9-ecJcRQDcHsPwy2N6gcvQaEPZqszSRKS6LeHhcjvfyCkaE5OqmjpfO8h7heFIMk5X5w6ZXJdBV6-b~p8HwvIXrmSkIvD54up1sn1j3i9F8gwnQH5VfueoNXfYQxw__",
+    "box": {
+      "x": -32320.408203125,
+      "y": 11564.640625,
+      "width": 339.6116638183594,
+      "height": 537.7184448242188
+    }
+  },
+  {
+    "id": "211:11345",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 16 > Image",
+    "imageRef": "5ce07a606c9de1d5fcde3c79d3b760818a43b91a",
+    "url": "https://s3-alpha-sig.figma.com/img/5ce0/7a60/6c9de1d5fcde3c79d3b760818a43b91a?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=R2Y5g2eCdQe0Tb6vCWlcy7qtxfvGpca4CycIWO~ShTrpSebFwnN4WXNlFFdrkR-PNDqKuI7zn7Pccwg7kveslpQTreLtbIRFHkqjUgXclU-L3l4wCh9QN2k1esRiLXUnPzczt5aPGTlOmRbFMTbA8kcAtXH3suta7q4-pDa2SP94vutKk~UVOL9mhx6~ziUTU7BNWKpoJi0Jy8bkWZZFyBneAdkzHwgwP4g4GbtBi-6goL7JLRoPlC3qCx48wOmWpVxG7ExQCc4-lTD~~quF7lPXi3DLlYtR3oSIsKTdheZbEoh2D5c3iKZKIF7iIoVBit0LUxsujd0z1fa7lKOyUQ__",
+    "box": {
+      "x": -31945.421875,
+      "y": 11564.640625,
+      "width": 339.6116638183594,
+      "height": 537.7184448242188
+    }
+  },
+  {
+    "id": "211:11346",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 16 > Image",
+    "imageRef": "ad5f65ba8949416de2c113c1872bad4ec91929aa",
+    "url": "https://s3-alpha-sig.figma.com/img/ad5f/65ba/8949416de2c113c1872bad4ec91929aa?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=MtPpyZMko8dgChL3vjr6Gu~DhTirzRNHrgLgbBejLut~m9PhiuWCl2riqCVlhtx5IUE5EIKL-e7zC2W45F77Q6gf09NWMbrHdEx1e0K6bnKd7HuFyqwXSoMNNDwrLr1tkMX7pqn6XBeLD71V88tZLI1GnN1KjNBrgi6Sb-KlBRnjlKKxTjuQbvfCOMSg85hV~bIaA5kFJ0WVRz12ijt9D7wCm5hnYe2cQDfSU3VovaY9PU0fsag0AnrbpeIye1dQlY9D0xTgvTUPaJwUN9p3f74kg0OCLSG7zw3WnxYu4wDEErHTJpls6mwqS7jz40PSZvHZ1lOL6gzu5V58NQGhBA__",
+    "box": {
+      "x": -31570.43359375,
+      "y": 11564.640625,
+      "width": 339.6116638183594,
+      "height": 537.7184448242188
+    }
+  },
+  {
+    "id": "211:11347",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 16 > Image",
+    "imageRef": "33715cf4619a7af6f90ba28e87199e8fd3fa1899",
+    "url": "https://s3-alpha-sig.figma.com/img/3371/5cf4/619a7af6f90ba28e87199e8fd3fa1899?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=VmYUPtwHXGMa7XEgX1nIDOb6JftoOR7gP61mkpglM5BFkP-I3jj-nLSzk4o3XghRUyUrWBWbVMuojcl0NVPRk5uLjgcF86cyk6ZZWqG0xEdTCMtRJ4DVzYOpTmaeQLvVMBUDcacv4G~A0Q95kw7S0pUw7TXhCu61RGs3o2JWLynftm5kDa~-lRlRUHWKV6TH6MinbKgif5yhuSLXVy6FCrzwqDTpstyfzHmsxG4tMbSaiz8UEwOiWBMUr-nuc-uiExerXKNADeKPSKx9OXSYjWYmwZmMk1kvDq2sj9-Jmk1aXbx3Mevm5yEoYuKjnK1JqTCX8FSGk8bUtnCJ80XtGg__",
+    "box": {
+      "x": -31195.4453125,
+      "y": 11564.640625,
+      "width": 339.6116638183594,
+      "height": 537.7184448242188
+    }
+  },
+  {
+    "id": "211:11348",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 16 > Image",
+    "imageRef": "656ef5f8313b75a1d849a78078bc3b9e633d2fe9",
+    "url": "https://s3-alpha-sig.figma.com/img/656e/f5f8/313b75a1d849a78078bc3b9e633d2fe9?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=uK8jZib6EIJPOjP4cuZDzwNOca1b3moHK3RW~CYnPKQqvdaLcrHwkTlp46dIMo28jEMzrHI4AypFEdXhiQqrOyN9J6tPvflvcns6lo~6H2BpFUQaQOX0GxxL1tAEUUTLy3BG4KD3v6hQWJIpwVMkJnS1ZcjT3kGgqKAy~lTJCfeHoqZwo-QVIgP2F2XQhus2NwTI5O1GfTMsv3qdQgeeNxWlBsFrOb2XW-dQmO4~RlHl~OIoT0Xoz-wQMXzIrGtqvY~EnHiwSZFVGaA33zHN1GybqyaAC0ku7VyrKG353ZjGBenu2sbpcP4tDtjiH3ZQF3~9U2VRWjS1thH0AsjPNA__",
+    "box": {
+      "x": -30820.45703125,
+      "y": 11564.640625,
+      "width": 339.6116638183594,
+      "height": 537.7184448242188
+    }
+  },
+  {
+    "id": "211:11349",
+    "name": "Image",
+    "path": "Traveli > Body > Frame 16 > Image",
+    "imageRef": "46a8f9b790e0d2fe6bf1a0b21300e22657b55d31",
+    "url": "https://s3-alpha-sig.figma.com/img/46a8/f9b7/90e0d2fe6bf1a0b21300e22657b55d31?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=gdjj1PxmcujI4gVETMfSTbNq0~vFPYMnlvygBgBLjQ1HtCrnIVT3eX9dJlCrXq1rMuTfxoysWe7fC2vjDPy3lBWGofcSeaxf32sJgcuou1YAq0OfuMpVtg5-M1S7hIIn10SoDYQ1f855StXBhKQhbRWAPBWjPvhbjE6xAfhD9zDDBWgkOuBqym0v4U3kClDpF0Zs9Epl6lxVGIGdkq2Yz5uQB9-ecJcRQDcHsPwy2N6gcvQaEPZqszSRKS6LeHhcjvfyCkaE5OqmjpfO8h7heFIMk5X5w6ZXJdBV6-b~p8HwvIXrmSkIvD54up1sn1j3i9F8gwnQH5VfueoNXfYQxw__",
+    "box": {
+      "x": -30445.46875,
+      "y": 11564.640625,
+      "width": 339.6116638183594,
+      "height": 537.7184448242188
+    }
+  },
+  {
+    "id": "211:11246",
+    "name": "Frame 14",
+    "path": "Traveli > Body > Frame 14",
+    "imageRef": "16134d4b5838c96ec2ecce90e7d7e38e54de1174",
+    "url": "https://s3-alpha-sig.figma.com/img/1613/4d4b/5838c96ec2ecce90e7d7e38e54de1174?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=tzKAX~DXhz5qIxZrDC3yiZT~iTEYKHyG9oeu5Ce92uMZMWp9n75TJQCQOdbyqDszMP6pj~8Q8uFV8WafIR18d7A5HxPAKAvi37v~0PFKL1PDWqs3OR1tD5d7YxKRje2NOLe3cG9nIpZqY05mdbSzAb2pgOD7~q6tE-~IjShiUOD-Ea-fykD9GJE~Au7xTLYcPVpQv3db7hXPpPix0ILeA98Qtoin6lcnkSDe35IUkqnsY03fN21JS3lvwaGqFSyNhVUFpH3-atKlsckuRZJHeLC0UVahgjkxiypehqQEabjWuKNwERbKM1EMRxxf11ONHESFhM50UUKRxBnffJgg0A__",
+    "box": {
+      "x": -33825,
+      "y": 12195,
+      "width": 1440,
+      "height": 976
+    }
+  },
+  {
+    "id": "211:11240",
+    "name": "image 2",
+    "path": "Traveli > Body > Frame 14 > Container > Container > Container > Container > Mask group > image 2",
+    "imageRef": "f88dca77aed56d81e89fe12e000b579eca93ec8f",
+    "url": "https://s3-alpha-sig.figma.com/img/f88d/ca77/aed56d81e89fe12e000b579eca93ec8f?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=HXQA8TTPSvDKGiQ0A-0PyMVOLV3FG8ANRxoFYRew3RuUJsrAU9FxQ91HNp6UAroqOm8Fwx4EkylfVk51B9esjAp5e42rSe5wCRxy-Y4KOq4YKjOt980NXqbhKMMiE3jVWg53RNT0jKOXJ3okkOTbDA1DxEqx5~hEAs1wgn0r~wCK~xQAG7q2BQRq~Eo2jbAyJCpW8OwjxmRbtR85aaswn~1Sjjq1TLc65BjQ91mkXU6p8YBIFeXfA3gTDdwYHNlNORksWqSlSCzW5bcQriG4WH5228sXWkV5yN3~34UOBxZCIgzO4u5wJuiruZ1ZCD~7m7MfO73mHhMzf66cb07vPw__",
+    "box": {
+      "x": -33674.16796875,
+      "y": 12453.583984375,
+      "width": 136.03009033203125,
+      "height": 46.63888931274414
+    }
+  },
+  {
+    "id": "205:7845",
+    "name": "Canvas",
+    "path": "Traveli > Section > Container > Container > Canvas",
+    "imageRef": "b44aa943c5422b3dea8961b5a0a7ac6f04662c91",
+    "url": "https://s3-alpha-sig.figma.com/img/b44a/a943/c5422b3dea8961b5a0a7ac6f04662c91?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=dMq9SPXnobbhU6GUZyV-JAujXXaJC6KkkE3gHo3hD9KybACuxfhORRiY12O6M2rUk2UjJuOUgSfi99~ezLdy9iFHnquD~wQrDygiIkeUiamLOz4mv60bUYGJvELgANXQIC4QbVrQyAOOHWoTKNb1QS9nEu4~jHF8CA2bwCTJN6CjITfZzsVqvuPAPlpOHaCu8YC4KsRGw6MLxYE2JodxYcUgjfH1VJQ0-yYjLhRc8Bbm8cG5hHNfLOQTjWjbnztANSMch4JG0z6KSEmi54ViZeWCeL2zQ6e3~2HZK6mRBwb-D4d6SU163PCTnD9HjoU9KQ~pwp1CD-PT9MPm13h~dg__",
+    "box": {
+      "x": -33807,
+      "y": 3902,
+      "width": 1860,
+      "height": 726
+    }
+  },
+  {
+    "id": "205:7921",
+    "name": "image 1",
+    "path": "Traveli > Header > Navigation > image 1",
+    "imageRef": "f88dca77aed56d81e89fe12e000b579eca93ec8f",
+    "url": "https://s3-alpha-sig.figma.com/img/f88d/ca77/aed56d81e89fe12e000b579eca93ec8f?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=HXQA8TTPSvDKGiQ0A-0PyMVOLV3FG8ANRxoFYRew3RuUJsrAU9FxQ91HNp6UAroqOm8Fwx4EkylfVk51B9esjAp5e42rSe5wCRxy-Y4KOq4YKjOt980NXqbhKMMiE3jVWg53RNT0jKOXJ3okkOTbDA1DxEqx5~hEAs1wgn0r~wCK~xQAG7q2BQRq~Eo2jbAyJCpW8OwjxmRbtR85aaswn~1Sjjq1TLc65BjQ91mkXU6p8YBIFeXfA3gTDdwYHNlNORksWqSlSCzW5bcQriG4WH5228sXWkV5yN3~34UOBxZCIgzO4u5wJuiruZ1ZCD~7m7MfO73mHhMzf66cb07vPw__",
+    "box": {
+      "x": -33795,
+      "y": 3840,
+      "width": 134.1666717529297,
+      "height": 46
+    }
+  },
+  {
+    "id": "211:11254",
+    "name": "image 7",
+    "path": "Traveli > Heading 2 > Frame 17 > image 7",
+    "imageRef": "d2cf757c3517a2c81c468eac03a97223c90e9055",
+    "url": "https://s3-alpha-sig.figma.com/img/d2cf/757c/3517a2c81c468eac03a97223c90e9055?Expires=1795392000&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=cCuVffJsi0CEk9mzGljyGE2adq7odqFAsG90VdbNPHfyOoCTbu4DMA20BlzdvFUDqg-N991w-CoeYzKWiRp4e7vTOaJaxKubM3jMUvaa8zHBXB-FOeneGpwHexuop1XRm4p68a73ppxFv~Z-tnJoNYfulOoFNK37pL4ZTjFkOa9DvxxdDtCxRIDw4k3GAPw~UNvdgFJkRUt~moJPbN6bMzdHLxDuL4Rp66s88-0fdk0S5HSq64nM3iDlagWVTBcrHPg57BD-zkS9Zb2E-d4yXKoJCltCv~-j~2eNUrfVhJ9aUHrNobfsXUfPhwbx7PnV7jV0ytLuFjDScZHCOB~IhQ__",
+    "box": {
+      "x": -32894.66796875,
+      "y": 11463.000461310148,
+      "width": 94.33665078503691,
+      "height": 97.32435756403356
+    }
+  }
+]

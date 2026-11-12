@@ -1,0 +1,1299 @@
+[
+  {
+    "index": 0,
+    "name": "Placeholder for Section",
+    "y": 3820,
+    "height": 911,
+    "width": 1920,
+    "images": [],
+    "texts": []
+  },
+  {
+    "index": "root_2",
+    "name": "Section",
+    "y": 3820,
+    "height": 911,
+    "width": 1440,
+    "images": [
+      {
+        "name": "Canvas",
+        "src": "/images/figma/canvas_b44aa943.png",
+        "width": 1860,
+        "height": 726
+      }
+    ],
+    "texts": [
+      {
+        "text": "4.8 Stars on",
+        "font": "Satoshi 500 14px",
+        "color": "rgba(255, 255, 255, 0.75)"
+      },
+      {
+        "text": "(586,679 reviews)",
+        "font": "Satoshi 500 14px",
+        "color": "rgba(255, 255, 255, 0.75)"
+      },
+      {
+        "text": "Your",
+        "font": "Satoshi 700 64px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "next",
+        "font": "Satoshi 700 64px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "adventure",
+        "font": "Satoshi 700 64px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "is",
+        "font": "Satoshi 700 64px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "one",
+        "font": "Satoshi 700 64px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "click away",
+        "font": "Satoshi 700 64px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Where to",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Country",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Departure",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Return date",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Traveler",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "01 person",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "explore now",
+        "font": "Satoshi 700 14px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Free cancellation on most tours",
+        "font": "Satoshi 500 16px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Secure payment, 100% guaranteed",
+        "font": "Satoshi 500 16px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "24/7 travel support",
+        "font": "Satoshi 500 16px",
+        "color": "rgba(33, 33, 33, 1)"
+      }
+    ]
+  },
+  {
+    "index": "root_3",
+    "name": "Header",
+    "y": 3820,
+    "height": 76,
+    "width": 1422,
+    "images": [
+      {
+        "name": "image 1",
+        "src": "/images/figma/image_2_f88dca77.png",
+        "width": 134,
+        "height": 46
+      }
+    ],
+    "texts": [
+      {
+        "text": "Home",
+        "font": "Satoshi 500 14px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "About",
+        "font": "Satoshi 500 14px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Essentials",
+        "font": "Satoshi 500 14px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Destination",
+        "font": "Satoshi 500 14px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Get A Quote",
+        "font": "Satoshi 700 14px",
+        "color": "rgba(255, 255, 255, 1)"
+      }
+    ]
+  },
+  {
+    "index": "root_1",
+    "name": "Container",
+    "y": 4653,
+    "height": 40,
+    "width": 1920,
+    "images": [],
+    "texts": []
+  },
+  {
+    "index": 1,
+    "name": "Section",
+    "y": 4731,
+    "height": 1049,
+    "width": 1440,
+    "images": [
+      {
+        "name": "Image",
+        "src": "/images/figma/image_6d53decb.png",
+        "width": 361,
+        "height": 409
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_9c6852f8.png",
+        "width": 363,
+        "height": 411
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_3820d761.png",
+        "width": 364,
+        "height": 412
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_c3806624.png",
+        "width": 350,
+        "height": 400
+      },
+      {
+        "name": "Ellipse 1",
+        "src": "/images/figma/ellipse_1_50dd16ae.png",
+        "width": 122,
+        "height": 122
+      },
+      {
+        "name": "Ellipse 2",
+        "src": "/images/figma/ellipse_2_02b2704e.png",
+        "width": 136,
+        "height": 136
+      },
+      {
+        "name": "image 2",
+        "src": "/images/figma/image_2_c7f5d4d8.png",
+        "width": 1049,
+        "height": 442
+      }
+    ],
+    "texts": [
+      {
+        "text": "TravelBid  tourism Welcome You!",
+        "font": "Poppins 600 40px",
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "We don't sell trips. We craft journeys.",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      }
+    ]
+  },
+  {
+    "index": "root_4",
+    "name": "Container",
+    "y": 5657,
+    "height": 168,
+    "width": 595,
+    "images": [],
+    "texts": [
+      {
+        "text": "\"We built Travelbid for the traveler we used to be — curious, budget-aware, and desperate for a platform that actually cared.\"",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "\"We",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "built",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Travelbid",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "for",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "the",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "traveler",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "we",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "used",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "to",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "be",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "curious,",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "budget-aware,",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "and",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "desperate",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "platform",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "that",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "actually",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "cared.\"",
+        "font": "Satoshi 400 24px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Newazul Huq Shehran",
+        "font": "Satoshi 700 16px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Founder & Co",
+        "font": "Satoshi 400 14px",
+        "color": "rgba(85, 85, 85, 1)"
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "name": "Ellipse 2",
+    "y": 5771,
+    "height": 54,
+    "width": 54,
+    "images": [
+      {
+        "name": "Ellipse 2",
+        "src": "/images/figma/ellipse_2_3e11c7ba.png",
+        "width": 54,
+        "height": 54
+      }
+    ],
+    "texts": []
+  },
+  {
+    "index": 4,
+    "name": "Ellipse 1",
+    "y": 5771,
+    "height": 76,
+    "width": 76,
+    "images": [
+      {
+        "name": "Ellipse 1",
+        "src": "/images/figma/ellipse_1_a42861bd.png",
+        "width": 76,
+        "height": 76
+      }
+    ],
+    "texts": []
+  },
+  {
+    "index": 5,
+    "name": "Container",
+    "y": 5780,
+    "height": 9784,
+    "width": 0.00009999999747378752,
+    "images": [],
+    "texts": []
+  },
+  {
+    "index": 2,
+    "name": "Ellipse 3",
+    "y": 5809,
+    "height": 60,
+    "width": 60,
+    "images": [
+      {
+        "name": "Ellipse 3",
+        "src": "/images/figma/ellipse_3_a00ea6c7.png",
+        "width": 60,
+        "height": 60
+      }
+    ],
+    "texts": []
+  },
+  {
+    "index": 12,
+    "name": "Container",
+    "y": 5951,
+    "height": 569.59375,
+    "width": 1300,
+    "images": [],
+    "texts": [
+      {
+        "text": "Curated, not crowded",
+        "font": "Satoshi 700 24px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Every listing is hand-reviewed. We choose quality over quantity — always.",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "No hidden fees. Ever.",
+        "font": "Satoshi 700 24px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "The price you see is the price you pay. Transparent billing is non-negotiable.",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Travel responsibly",
+        "font": "Satoshi 700 24px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "We offset every booking's carbon footprint and partner with eco-certified operators.",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Local-first mindset",
+        "font": "Satoshi 700 24px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "We route your spend to local guides and communities — not global chains.",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Humans on standby",
+        "font": "Satoshi 700 24px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "24/7 real-person support. No bots. No ticket queues. A real traveler picks up.",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Book with confidence",
+        "font": "Satoshi 700 24px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Free cancellation, price match guarantee, and full refund protection on every trip.",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(85, 85, 85, 1)"
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "name": "Frame 4",
+    "y": 6647,
+    "height": 1226,
+    "width": 1312,
+    "images": [
+      {
+        "name": "Image",
+        "src": "/images/figma/image_c534d6f7.png",
+        "width": 638,
+        "height": 400
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_d66de817.png",
+        "width": 307,
+        "height": 400
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_05fe878c.png",
+        "width": 307,
+        "height": 400
+      },
+      {
+        "name": "image 3",
+        "src": "/images/figma/image_3_1555823f.png",
+        "width": 307,
+        "height": 400
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_302e3c59.png",
+        "width": 638,
+        "height": 400
+      },
+      {
+        "name": "image 4",
+        "src": "/images/figma/image_4_e7d8f241.png",
+        "width": 638,
+        "height": 400
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_f917d210.png",
+        "width": 307,
+        "height": 400
+      },
+      {
+        "name": "image 5",
+        "src": "/images/figma/image_5_5aaef751.png",
+        "width": 639,
+        "height": 426
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_9c2b9772.png",
+        "width": 307,
+        "height": 400
+      }
+    ],
+    "texts": [
+      {
+        "text": "Top #01 destinations  traveler's love",
+        "font": "Satoshi 700 48px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "more destinations",
+        "font": "Satoshi 700 14px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Kaziranga National Park",
+        "font": "Satoshi 700 20px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "$649",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "/Per person",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Brihadeeswarar Temple",
+        "font": "Satoshi 700 20px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "$449",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Manali",
+        "font": "Satoshi 700 20px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "$350",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Snowy Peak Retreat",
+        "font": "Satoshi 700 20px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "$559",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Tirupati",
+        "font": "Satoshi 700 20px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "$349",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Rishikesh",
+        "font": "Satoshi 700 20px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "$499",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(33, 33, 33, 1)"
+      }
+    ]
+  },
+  {
+    "index": "root_5",
+    "name": "Frame 11",
+    "y": 7974,
+    "height": 59.55351638793945,
+    "width": 1437,
+    "images": [],
+    "texts": [
+      {
+        "text": "Travel & Tour",
+        "font": "Satoshi 700 37.670013427734375px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Explore",
+        "font": "Satoshi 700 37.670013427734375px",
+        "color": "rgba(234, 231, 231, 1)"
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "name": "Frame 13",
+    "y": 8135,
+    "height": 954,
+    "width": 1444,
+    "images": [
+      {
+        "name": "Video",
+        "src": "/images/figma/video_0ddeea0f.png",
+        "width": 1444,
+        "height": 954
+      },
+      {
+        "name": "image 6",
+        "src": "/images/figma/image_6_6fe691f6.png",
+        "width": 1444,
+        "height": 954
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_729e84d8.png",
+        "width": 400,
+        "height": 501
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_5ee2b172.png",
+        "width": 400,
+        "height": 501
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_3ee44c7d.png",
+        "width": 400,
+        "height": 501
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_9b728c61.png",
+        "width": 400,
+        "height": 501
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_62de3cf0.png",
+        "width": 400,
+        "height": 501
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_169cc264.png",
+        "width": 400,
+        "height": 501
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_8362e463.png",
+        "width": 400,
+        "height": 501
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_62de3cf0.png",
+        "width": 400,
+        "height": 501
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_169cc264.png",
+        "width": 400,
+        "height": 501
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_8362e463.png",
+        "width": 400,
+        "height": 501
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_62de3cf0.png",
+        "width": 400,
+        "height": 501
+      }
+    ],
+    "texts": [
+      {
+        "text": "Top notch destination for your next adventure",
+        "font": "Satoshi 700 48px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "03 tour plan",
+        "font": "Satoshi 400 14px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Royal City Center",
+        "font": "Satoshi 700 32px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "05 tour plan",
+        "font": "Satoshi 400 14px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Serene Lake Escape",
+        "font": "Satoshi 700 32px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "07 tour plan",
+        "font": "Satoshi 400 14px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Emerald Forest Retreat",
+        "font": "Satoshi 700 32px",
+        "color": "rgba(255, 255, 255, 1)"
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "name": "Container",
+    "y": 9189,
+    "height": 132,
+    "width": 476,
+    "images": [],
+    "texts": [
+      {
+        "text": "Memorable journeys shared by travelers",
+        "font": "Satoshi 700 48px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Happy Travelers",
+        "font": "Satoshi 500 13.999999046325684px",
+        "color": "rgba(33, 33, 33, 1)"
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "name": "Container",
+    "y": 9583,
+    "height": 550,
+    "width": 1300,
+    "images": [
+      {
+        "name": "Container",
+        "src": "/images/figma/container_c154fc84.png",
+        "width": 20,
+        "height": 20
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_6a243e54.png",
+        "width": 338,
+        "height": 338
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_15e2c598.png",
+        "width": 400,
+        "height": 92
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_b21109b3.png",
+        "width": 50,
+        "height": 50
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_e6bcb7c3.png",
+        "width": 400,
+        "height": 92
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_c4d9c2cd.png",
+        "width": 50,
+        "height": 50
+      }
+    ],
+    "texts": [
+      {
+        "text": "4.9",
+        "font": "Satoshi 700 100px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Based on 65455 reviews on Traveli",
+        "font": "Arimo 400 16px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "“ Booking our vacation was incredibly easy, and every detail was handled professionally. The itinerary was well organized, the accommodations were excellent, and the entire experience. ”",
+        "font": "Satoshi 500 24px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Sebastian T. Langston",
+        "font": "Satoshi 500 20px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Travel blogger",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(255, 255, 255, 0.75)"
+      },
+      {
+        "text": "“ We were impressed by the level of professionalism and care shown by the travel team. They listened to our preferences and designed a trip that matched our interests our perfectly. ”",
+        "font": "Satoshi 500 24px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Oscar N. Winsley",
+        "font": "Satoshi 500 20px",
+        "color": "rgba(255, 255, 255, 1)"
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "name": "Container",
+    "y": 10430,
+    "height": 483,
+    "width": 1300,
+    "images": [],
+    "texts": [
+      {
+        "text": "Create journeys with effortless booking flow",
+        "font": "Satoshi 700 48px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "how it works?",
+        "font": "Satoshi 500 13.999999046325684px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Step 01",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Pick your dream travel location from a wide range of beautiful places around the world.",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Choose destination",
+        "font": "Satoshi 700 24px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Step 02",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Select the best travel package that fits your budget and preferences, then confirm.",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Package reservation",
+        "font": "Satoshi 700 24px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Step 03",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Relax and enjoy your journey while we take care of everything, ensuring a smooth.",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Journey enjoyment",
+        "font": "Satoshi 700 24px",
+        "color": "rgba(33, 33, 33, 1)"
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "name": "Container",
+    "y": 10974,
+    "height": 530,
+    "width": 1300,
+    "images": [
+      {
+        "name": "Image",
+        "src": "/images/figma/image_39db2210.png",
+        "width": 1300,
+        "height": 338
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_d8c5235d.png",
+        "width": 165,
+        "height": 165
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_d2acc348.png",
+        "width": 123,
+        "height": 112
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_40ceb07b.png",
+        "width": 108,
+        "height": 121
+      }
+    ],
+    "texts": [
+      {
+        "text": "Start your journey with us today",
+        "font": "Satoshi 700 48px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Start",
+        "font": "Satoshi 700 48px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "your",
+        "font": "Satoshi 700 48px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "journey",
+        "font": "Satoshi 700 48px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "with",
+        "font": "Satoshi 700 48px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "us",
+        "font": "Satoshi 700 48px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "today",
+        "font": "Satoshi 700 48px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Start your journey with us today and explore the world like never before. From carefully planned.",
+        "font": "Satoshi 400 16px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "30%",
+        "font": "Satoshi 700 32px",
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "SALE OFF",
+        "font": "Satoshi 500 14px",
+        "color": "rgba(33, 33, 33, 1)"
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "name": "Frame 18",
+    "y": 11426,
+    "height": 836,
+    "width": 1440,
+    "images": [],
+    "texts": []
+  },
+  {
+    "index": "root_6",
+    "name": "Heading 2",
+    "y": 11439,
+    "height": 129,
+    "width": 565,
+    "images": [
+      {
+        "name": "image 7",
+        "src": "/images/figma/image_7_d2cf757c.png",
+        "width": 94,
+        "height": 97
+      }
+    ],
+    "texts": [
+      {
+        "text": "TravelBid Instagram feed",
+        "font": "Satoshi 700 48px",
+        "color": "rgba(33, 33, 33, 1)"
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "name": "Frame 16",
+    "y": 11542,
+    "height": 583,
+    "width": 3346.589599609375,
+    "images": [
+      {
+        "name": "Image",
+        "src": "/images/figma/image_5ce07a60.png",
+        "width": 340,
+        "height": 538
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_ad5f65ba.png",
+        "width": 340,
+        "height": 538
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_33715cf4.png",
+        "width": 340,
+        "height": 538
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_656ef5f8.png",
+        "width": 340,
+        "height": 538
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_46a8f9b7.png",
+        "width": 340,
+        "height": 538
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_5ce07a60.png",
+        "width": 340,
+        "height": 538
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_ad5f65ba.png",
+        "width": 340,
+        "height": 538
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_33715cf4.png",
+        "width": 340,
+        "height": 538
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_656ef5f8.png",
+        "width": 340,
+        "height": 538
+      },
+      {
+        "name": "Image",
+        "src": "/images/figma/image_46a8f9b7.png",
+        "width": 340,
+        "height": 538
+      }
+    ],
+    "texts": []
+  },
+  {
+    "index": 15,
+    "name": "Frame 14",
+    "y": 12195,
+    "height": 976,
+    "width": 1440,
+    "images": [
+      {
+        "name": "Frame 14",
+        "src": "/images/figma/frame_14_16134d4b.png",
+        "width": 1440,
+        "height": 976
+      },
+      {
+        "name": "image 2",
+        "src": "/images/figma/image_2_f88dca77.png",
+        "width": 136,
+        "height": 47
+      }
+    ],
+    "texts": [
+      {
+        "text": "Every journey we organize is built on trust, safety, and unforgettable views.",
+        "font": "Satoshi 400 16.22222137451172px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "+123 (456) 789 00-6",
+        "font": "Satoshi 400 16.22222137451172px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "+123",
+        "font": "Satoshi 400 16.22222137451172px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "(456)",
+        "font": "Satoshi 400 16.22222137451172px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "789",
+        "font": "Satoshi 400 16.22222137451172px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "00-6",
+        "font": "Satoshi 400 16.22222137451172px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "info@traveli.com",
+        "font": "Satoshi 400 16.22222137451172px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "12/a, New booston tower, NYC, US 120002",
+        "font": "Satoshi 400 16.22222137451172px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "12/a,",
+        "font": "Satoshi 400 16.22222137451172px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "New",
+        "font": "Satoshi 400 16.22222137451172px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "booston",
+        "font": "Satoshi 400 16.22222137451172px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "tower,",
+        "font": "Satoshi 400 16.22222137451172px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "NYC,",
+        "font": "Satoshi 400 16.22222137451172px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "US",
+        "font": "Satoshi 400 16.22222137451172px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "120002",
+        "font": "Satoshi 400 16.22222137451172px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Essential link",
+        "font": "Satoshi 400 14.194443702697754px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Home",
+        "font": "Satoshi 500 20.27777671813965px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "About",
+        "font": "Satoshi 500 20.27777671813965px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Destinations",
+        "font": "Satoshi 500 20.27777671813965px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Blogs",
+        "font": "Satoshi 500 20.27777671813965px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Get in touch",
+        "font": "Satoshi 500 20.27777671813965px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Get",
+        "font": "Satoshi 500 20.27777671813965px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "in",
+        "font": "Satoshi 500 20.27777671813965px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "touch",
+        "font": "Satoshi 500 20.27777671813965px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Testimonial",
+        "font": "Satoshi 500 20.27777671813965px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Pricing",
+        "font": "Satoshi 500 20.27777671813965px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Al Arab",
+        "font": "Satoshi 500 20.27777671813965px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Berlin",
+        "font": "Satoshi 500 20.27777671813965px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Bangkok",
+        "font": "Satoshi 500 20.27777671813965px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Seoul",
+        "font": "Satoshi 500 20.27777671813965px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Lisbon",
+        "font": "Satoshi 500 20.27777671813965px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Cairo",
+        "font": "Satoshi 500 20.27777671813965px",
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Copyright & design by @Template Munk - 2026",
+        "font": "Satoshi 400 16.22222137451172px",
+        "color": "rgba(255, 255, 255, 1)"
+      }
+    ]
+  }
+]

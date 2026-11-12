@@ -1,0 +1,6949 @@
+[
+  {
+    "index": 0,
+    "id": "205:6793",
+    "name": "Placeholder for Section",
+    "type": "FRAME",
+    "box": {
+      "x": -34065,
+      "y": 3820,
+      "width": 1920,
+      "height": 911
+    },
+    "fills": [],
+    "texts": [],
+    "images": []
+  },
+  {
+    "index": 1,
+    "id": "205:6794",
+    "name": "Section",
+    "type": "FRAME",
+    "box": {
+      "x": -33825,
+      "y": 4731,
+      "width": 1440,
+      "height": 1049
+    },
+    "fills": [],
+    "texts": [
+      {
+        "text": "TravelBid  tourism Welcome You!",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "We don't sell trips. We craft journeys.",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "T",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "v",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "B",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "u",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "m",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "W",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "c",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "m",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "Y",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "u",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      },
+      {
+        "text": "!",
+        "fontSize": 40,
+        "fontWeight": 600,
+        "fontFamily": "Poppins",
+        "lineHeightPx": 44,
+        "color": "rgba(17, 15, 15, 1)"
+      }
+    ],
+    "images": [
+      {
+        "id": "205:8016",
+        "name": "Image",
+        "imageRef": "6d53decb7e1f7f20f316753ddc4e954d7d13e1f2",
+        "src": "/images/figma/image_6d53decb.png",
+        "box": {
+          "x": -33858.99955826998,
+          "y": 4931,
+          "width": 360.5239734053612,
+          "height": 409.1752564534545
+        }
+      },
+      {
+        "id": "205:8014",
+        "name": "Image",
+        "imageRef": "9c6852f8c48338819d0578d45d633812da1e6aec",
+        "src": "/images/figma/image_9c6852f8.png",
+        "box": {
+          "x": -33468.57913547754,
+          "y": 4985.564453125,
+          "width": 362.9071518778801,
+          "height": 411.243505589664
+        }
+      },
+      {
+        "id": "205:8011",
+        "name": "Image",
+        "imageRef": "3820d7615335c130f449ac34a4d8b541aba155ea",
+        "src": "/images/figma/image_3820d761.png",
+        "box": {
+          "x": -33084.87334942818,
+          "y": 4948.01953125,
+          "width": 363.73851895332336,
+          "height": 411.9641624391079
+        }
+      },
+      {
+        "id": "205:8031",
+        "name": "Image",
+        "imageRef": "c380662450036a61559f09b0338af7cc8e289ff3",
+        "src": "/images/figma/image_c3806624.png",
+        "box": {
+          "x": -32679,
+          "y": 4960,
+          "width": 350,
+          "height": 400
+        }
+      },
+      {
+        "id": "205:8336",
+        "name": "Ellipse 1",
+        "imageRef": "50dd16ae1867c3b437c40d0eea2909451451ae10",
+        "src": "/images/figma/ellipse_1_50dd16ae.png",
+        "box": {
+          "x": -33694,
+          "y": 5626,
+          "width": 122,
+          "height": 122
+        }
+      },
+      {
+        "id": "205:8338",
+        "name": "Ellipse 2",
+        "imageRef": "02b2704ed2a4acb89ac8adb4172c3cb82a0ee9f3",
+        "src": "/images/figma/ellipse_2_02b2704e.png",
+        "box": {
+          "x": -32626,
+          "y": 5612,
+          "width": 136,
+          "height": 136
+        }
+      },
+      {
+        "id": "205:8322",
+        "name": "image 2",
+        "imageRef": "c7f5d4d8bf9fdfd0624747d2c2a2d5377e351870",
+        "src": "/images/figma/image_2_c7f5d4d8.png",
+        "box": {
+          "x": -33551,
+          "y": 5284,
+          "width": 1049,
+          "height": 442
+        }
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "id": "205:8340",
+    "name": "Ellipse 3",
+    "type": "ELLIPSE",
+    "box": {
+      "x": -32550,
+      "y": 5809,
+      "width": 60,
+      "height": 60
+    },
+    "fills": [],
+    "texts": [],
+    "images": [
+      {
+        "id": "205:8340",
+        "name": "Ellipse 3",
+        "imageRef": "a00ea6c7c8f939a09af2bedc7df3c539c3ba57d1",
+        "src": "/images/figma/ellipse_3_a00ea6c7.png",
+        "box": {
+          "x": -32550,
+          "y": 5809,
+          "width": 60,
+          "height": 60
+        }
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "id": "205:8339",
+    "name": "Ellipse 2",
+    "type": "ELLIPSE",
+    "box": {
+      "x": -32784,
+      "y": 5771,
+      "width": 54,
+      "height": 54
+    },
+    "fills": [],
+    "texts": [],
+    "images": [
+      {
+        "id": "205:8339",
+        "name": "Ellipse 2",
+        "imageRef": "3e11c7ba56684abe83da249dab6cc9ad95a89983",
+        "src": "/images/figma/ellipse_2_3e11c7ba.png",
+        "box": {
+          "x": -32784,
+          "y": 5771,
+          "width": 54,
+          "height": 54
+        }
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "id": "205:8337",
+    "name": "Ellipse 1",
+    "type": "ELLIPSE",
+    "box": {
+      "x": -33507,
+      "y": 5771,
+      "width": 76,
+      "height": 76
+    },
+    "fills": [],
+    "texts": [],
+    "images": [
+      {
+        "id": "205:8337",
+        "name": "Ellipse 1",
+        "imageRef": "a42861bddef7e66e7a0e5a0a86041bc19f368105",
+        "src": "/images/figma/ellipse_1_a42861bd.png",
+        "box": {
+          "x": -33507,
+          "y": 5771,
+          "width": 76,
+          "height": 76
+        }
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "id": "205:7841",
+    "name": "Container",
+    "type": "FRAME",
+    "box": {
+      "x": -33105,
+      "y": 5780,
+      "width": 0.00009999999747378752,
+      "height": 9784
+    },
+    "fills": [],
+    "texts": [],
+    "images": []
+  },
+  {
+    "index": 6,
+    "id": "205:9174",
+    "name": "Frame 4",
+    "type": "FRAME",
+    "box": {
+      "x": -33755,
+      "y": 6647,
+      "width": 1312,
+      "height": 1226
+    },
+    "fills": [],
+    "texts": [
+      {
+        "text": "Top #01 destinations  traveler's love",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "more destinations",
+        "fontSize": 14,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "more destinations",
+        "fontSize": 14,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Kaziranga National Park",
+        "fontSize": 20,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "$649",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "/Per person",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Brihadeeswarar Temple",
+        "fontSize": 20,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "$449",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "/Per person",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Manali",
+        "fontSize": 20,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "$350",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "/Per person",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Snowy Peak Retreat",
+        "fontSize": 20,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "$559",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "/Per person",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Tirupati",
+        "fontSize": 20,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "$349",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "/Per person",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Rishikesh",
+        "fontSize": 20,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "$499",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "/Per person",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(85, 85, 85, 1)"
+      }
+    ],
+    "images": [
+      {
+        "id": "205:9194",
+        "name": "Image",
+        "imageRef": "c534d6f7e4c850689b926b85136b27fa41a279a1",
+        "src": "/images/figma/image_c534d6f7.png",
+        "box": {
+          "x": -33755,
+          "y": 7393,
+          "width": 638,
+          "height": 400
+        }
+      },
+      {
+        "id": "205:9207",
+        "name": "Image",
+        "imageRef": "d66de8179eda4ea36d2c9d15ee61bfd3a9374786",
+        "src": "/images/figma/image_d66de817.png",
+        "box": {
+          "x": -33743,
+          "y": 6849,
+          "width": 307,
+          "height": 400
+        }
+      },
+      {
+        "id": "205:9219",
+        "name": "Image",
+        "imageRef": "05fe878c0c790ec9bde6ab4aaebe2918c0ce090e",
+        "src": "/images/figma/image_05fe878c.png",
+        "box": {
+          "x": -33412,
+          "y": 6849,
+          "width": 307,
+          "height": 400
+        }
+      },
+      {
+        "id": "205:9222",
+        "name": "image 3",
+        "imageRef": "1555823f61a7619d4fc22b3e4545fcf8272fd394",
+        "src": "/images/figma/image_3_1555823f.png",
+        "box": {
+          "x": -33412,
+          "y": 6849,
+          "width": 307,
+          "height": 400
+        }
+      },
+      {
+        "id": "205:9233",
+        "name": "Image",
+        "imageRef": "302e3c59543c057b71f9d022bb3a7af2a7c04668",
+        "src": "/images/figma/image_302e3c59.png",
+        "box": {
+          "x": -33081,
+          "y": 6849,
+          "width": 638,
+          "height": 400
+        }
+      },
+      {
+        "id": "205:9236",
+        "name": "image 4",
+        "imageRef": "e7d8f241525d5e6312d9a47dd40b6166f7fb0015",
+        "src": "/images/figma/image_4_e7d8f241.png",
+        "box": {
+          "x": -33081,
+          "y": 6849,
+          "width": 638,
+          "height": 400
+        }
+      },
+      {
+        "id": "205:9256",
+        "name": "Image",
+        "imageRef": "f917d2108d105d29954fb64d89b6374d4a6577e9",
+        "src": "/images/figma/image_f917d210.png",
+        "box": {
+          "x": -33093,
+          "y": 7393,
+          "width": 307,
+          "height": 400
+        }
+      },
+      {
+        "id": "205:9259",
+        "name": "image 5",
+        "imageRef": "5aaef751969214a59049e6cb2d8c1af28d36bac6",
+        "src": "/images/figma/image_5_5aaef751.png",
+        "box": {
+          "x": -33259.0625,
+          "y": 7366.587890625,
+          "width": 639.122314453125,
+          "height": 426.4120788574219
+        }
+      },
+      {
+        "id": "205:9271",
+        "name": "Image",
+        "imageRef": "9c2b97720e31324a37bfe5f98e9ba4cb9b51fc44",
+        "src": "/images/figma/image_9c2b9772.png",
+        "box": {
+          "x": -32762,
+          "y": 7393,
+          "width": 307,
+          "height": 400
+        }
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "id": "211:9406",
+    "name": "Frame 13",
+    "type": "FRAME",
+    "box": {
+      "x": -33827,
+      "y": 8135,
+      "width": 1444,
+      "height": 954
+    },
+    "fills": [
+      "rgba(132, 125, 125, 1)"
+    ],
+    "texts": [
+      {
+        "text": "Top notch destination for your next adventure",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "03 tour plan",
+        "fontSize": 14,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Royal City Center",
+        "fontSize": 32,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 32,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "05 tour plan",
+        "fontSize": 14,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Serene Lake Escape",
+        "fontSize": 32,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 32,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "07 tour plan",
+        "fontSize": 14,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Emerald Forest Retreat",
+        "fontSize": 32,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 32,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "03 tour plan",
+        "fontSize": 14,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Royal City Center",
+        "fontSize": 32,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 32,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "05 tour plan",
+        "fontSize": 14,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Serene Lake Escape",
+        "fontSize": 32,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 32,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "07 tour plan",
+        "fontSize": 14,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Emerald Forest Retreat",
+        "fontSize": 32,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 32,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "03 tour plan",
+        "fontSize": 14,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Royal City Center",
+        "fontSize": 32,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 32,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "05 tour plan",
+        "fontSize": 14,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Serene Lake Escape",
+        "fontSize": 32,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 32,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "07 tour plan",
+        "fontSize": 14,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Emerald Forest Retreat",
+        "fontSize": 32,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 32,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "03 tour plan",
+        "fontSize": 14,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Royal City Center",
+        "fontSize": 32,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 32,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "05 tour plan",
+        "fontSize": 14,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Serene Lake Escape",
+        "fontSize": 32,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 32,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "07 tour plan",
+        "fontSize": 14,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Emerald Forest Retreat",
+        "fontSize": 32,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 32,
+        "color": "rgba(255, 255, 255, 1)"
+      }
+    ],
+    "images": [
+      {
+        "id": "211:9409",
+        "name": "Video",
+        "imageRef": "0ddeea0f4862206d99cbb1c79ce9935e0cde10f0",
+        "src": "/images/figma/video_0ddeea0f.png",
+        "box": {
+          "x": -33827,
+          "y": 8135,
+          "width": 1444,
+          "height": 954
+        }
+      },
+      {
+        "id": "211:9410",
+        "name": "image 6",
+        "imageRef": "6fe691f6ff6ab68f8a25e0f8c11a037cc74e38b6",
+        "src": "/images/figma/image_6_6fe691f6.png",
+        "box": {
+          "x": -33827,
+          "y": 8135,
+          "width": 1444,
+          "height": 954
+        }
+      },
+      {
+        "id": "211:9419",
+        "name": "Image",
+        "imageRef": "729e84d84bbdc26fa96b22b73c0a9ab2e520fbf2",
+        "src": "/images/figma/image_729e84d8.png",
+        "box": {
+          "x": -33816,
+          "y": 8393,
+          "width": 400,
+          "height": 501
+        }
+      },
+      {
+        "id": "211:9434",
+        "name": "Image",
+        "imageRef": "5ee2b172b0f5da8408b8e14e5f9653b29c8c858d",
+        "src": "/images/figma/image_5ee2b172.png",
+        "box": {
+          "x": -33366,
+          "y": 8393,
+          "width": 400,
+          "height": 501
+        }
+      },
+      {
+        "id": "211:9449",
+        "name": "Image",
+        "imageRef": "3ee44c7d7064f3d5cd56365f8b03686638f85d6b",
+        "src": "/images/figma/image_3ee44c7d.png",
+        "box": {
+          "x": -32916,
+          "y": 8393,
+          "width": 400,
+          "height": 501
+        }
+      },
+      {
+        "id": "211:9464",
+        "name": "Image",
+        "imageRef": "9b728c61c342b9ad17aeac8531f927677279349c",
+        "src": "/images/figma/image_9b728c61.png",
+        "box": {
+          "x": -32466,
+          "y": 8393,
+          "width": 400,
+          "height": 501
+        }
+      },
+      {
+        "id": "211:9479",
+        "name": "Image",
+        "imageRef": "62de3cf0d133d4c3a27d0072fd03391e6e8dcd18",
+        "src": "/images/figma/image_62de3cf0.png",
+        "box": {
+          "x": -32016,
+          "y": 8393,
+          "width": 400,
+          "height": 501
+        }
+      },
+      {
+        "id": "211:9494",
+        "name": "Image",
+        "imageRef": "169cc2641f76386cd194db3420be17f6087fac8b",
+        "src": "/images/figma/image_169cc264.png",
+        "box": {
+          "x": -31566,
+          "y": 8393,
+          "width": 400,
+          "height": 501
+        }
+      },
+      {
+        "id": "211:9509",
+        "name": "Image",
+        "imageRef": "8362e463971490c0fa541e43141750dfc1c96298",
+        "src": "/images/figma/image_8362e463.png",
+        "box": {
+          "x": -31116,
+          "y": 8393,
+          "width": 400,
+          "height": 501
+        }
+      },
+      {
+        "id": "211:9524",
+        "name": "Image",
+        "imageRef": "62de3cf0d133d4c3a27d0072fd03391e6e8dcd18",
+        "src": "/images/figma/image_62de3cf0.png",
+        "box": {
+          "x": -30666,
+          "y": 8393,
+          "width": 400,
+          "height": 501
+        }
+      },
+      {
+        "id": "211:9539",
+        "name": "Image",
+        "imageRef": "169cc2641f76386cd194db3420be17f6087fac8b",
+        "src": "/images/figma/image_169cc264.png",
+        "box": {
+          "x": -30216,
+          "y": 8393,
+          "width": 400,
+          "height": 501
+        }
+      },
+      {
+        "id": "211:9554",
+        "name": "Image",
+        "imageRef": "8362e463971490c0fa541e43141750dfc1c96298",
+        "src": "/images/figma/image_8362e463.png",
+        "box": {
+          "x": -29766,
+          "y": 8393,
+          "width": 400,
+          "height": 501
+        }
+      },
+      {
+        "id": "211:9569",
+        "name": "Image",
+        "imageRef": "62de3cf0d133d4c3a27d0072fd03391e6e8dcd18",
+        "src": "/images/figma/image_62de3cf0.png",
+        "box": {
+          "x": -29316,
+          "y": 8393,
+          "width": 400,
+          "height": 501
+        }
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "id": "205:7422",
+    "name": "Container",
+    "type": "FRAME",
+    "box": {
+      "x": -33343,
+      "y": 9189,
+      "width": 476,
+      "height": 132
+    },
+    "fills": [],
+    "texts": [
+      {
+        "text": "Memorable journeys shared by travelers",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Happy Travelers",
+        "fontSize": 13.999999046325684,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 13.999999046325684,
+        "color": "rgba(33, 33, 33, 1)"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 9,
+    "id": "205:7428",
+    "name": "Container",
+    "type": "FRAME",
+    "box": {
+      "x": -33755,
+      "y": 9583,
+      "width": 1300,
+      "height": 550
+    },
+    "fills": [],
+    "texts": [
+      {
+        "text": "4.9",
+        "fontSize": 100,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 100,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Based on 65455 reviews on Traveli",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Arimo",
+        "lineHeightPx": 26,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "“ Booking our vacation was incredibly easy, and every detail was handled professionally. The itinerary was well organized, the accommodations were excellent, and the entire experience. ”",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "“",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "B",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "k",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "g",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "u",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "v",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "c",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "w",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "c",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "b",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "y",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "y",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": ",",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "v",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "y",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "w",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "h",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "p",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "f",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "y",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": ".",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "T",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "h",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "y",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "w",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "w",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "g",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "z",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": ",",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "h",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "c",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "c",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "m",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "m",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "w",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "x",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "c",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": ",",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "h",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "x",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "p",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "c",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": ".",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "”",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Sebastian T. Langston",
+        "fontSize": 20,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Travel blogger",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(255, 255, 255, 0.75)"
+      },
+      {
+        "text": "“ We were impressed by the level of professionalism and care shown by the travel team. They listened to our preferences and designed a trip that matched our interests our perfectly. ”",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "“",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "W",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "w",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "m",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "p",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "b",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "y",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "h",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "v",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "f",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "p",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "f",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "m",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "c",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "h",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "w",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "b",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "y",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "h",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "v",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "m",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": ".",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "T",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "h",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "y",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "u",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "p",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "f",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "c",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "g",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "p",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "h",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "m",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "c",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "h",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "u",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "u",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "p",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "f",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "c",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "y",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": ".",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "”",
+        "fontSize": 24,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Oscar N. Winsley",
+        "fontSize": 20,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Travel blogger",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(255, 255, 255, 0.75)"
+      }
+    ],
+    "images": [
+      {
+        "id": "205:7434",
+        "name": "Container",
+        "imageRef": "c154fc840f9945a1467e5f0f28a7148bc895092f",
+        "src": "/images/figma/container_c154fc84.png",
+        "box": {
+          "x": -33477,
+          "y": 9623,
+          "width": 20,
+          "height": 20
+        }
+      },
+      {
+        "id": "205:7438",
+        "name": "Image",
+        "imageRef": "6a243e54d7b99dba6b38179ce62eb68f4212ebb4",
+        "src": "/images/figma/image_6a243e54.png",
+        "box": {
+          "x": -33713.75,
+          "y": 9789.25,
+          "width": 337.5,
+          "height": 337.5
+        }
+      },
+      {
+        "id": "205:7470",
+        "name": "Image",
+        "imageRef": "15e2c5989ff11b9764bef80ffa6b97cb5047f92c",
+        "src": "/images/figma/image_15e2c598.png",
+        "box": {
+          "x": -33305,
+          "y": 9891,
+          "width": 400,
+          "height": 92
+        }
+      },
+      {
+        "id": "205:7479",
+        "name": "Image",
+        "imageRef": "b21109b370ce16bf182dd451ed9cc8c1cf187924",
+        "src": "/images/figma/image_b21109b3.png",
+        "box": {
+          "x": -32975,
+          "y": 9912,
+          "width": 50,
+          "height": 50
+        }
+      },
+      {
+        "id": "205:7506",
+        "name": "Image",
+        "imageRef": "e6bcb7c33af3a018f294c8fab4f1aaf09d37d814",
+        "src": "/images/figma/image_e6bcb7c3.png",
+        "box": {
+          "x": -32865,
+          "y": 10151,
+          "width": 400,
+          "height": 92
+        }
+      },
+      {
+        "id": "205:7515",
+        "name": "Image",
+        "imageRef": "c4d9c2cd4a58117df24e1540f42cb36503cb72a3",
+        "src": "/images/figma/image_c4d9c2cd.png",
+        "box": {
+          "x": -32535,
+          "y": 10172,
+          "width": 50,
+          "height": 50
+        }
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "id": "205:7517",
+    "name": "Container",
+    "type": "FRAME",
+    "box": {
+      "x": -33755,
+      "y": 10430,
+      "width": 1300,
+      "height": 483
+    },
+    "fills": [],
+    "texts": [
+      {
+        "text": "Create journeys with effortless booking flow",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "how it works?",
+        "fontSize": 13.999999046325684,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 13.999999046325684,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Step 01",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Pick your dream travel location from a wide range of beautiful places around the world.",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Choose destination",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "C",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "h",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Step 02",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Select the best travel package that fits your budget and preferences, then confirm.",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Package reservation",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "P",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "c",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "k",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "g",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "v",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Step 03",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Relax and enjoy your journey while we take care of everything, ensuring a smooth.",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Journey enjoyment",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "J",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "u",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "y",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "j",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "y",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "m",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 11,
+    "id": "205:7574",
+    "name": "Container",
+    "type": "FRAME",
+    "box": {
+      "x": -33762,
+      "y": 10974,
+      "width": 1300,
+      "height": 530
+    },
+    "fills": [],
+    "texts": [
+      {
+        "text": "Start your journey with us today",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Start",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "your",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "journey",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "with",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "us",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "today",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Start your journey with us today and explore the world like never before. From carefully planned.",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "30%",
+        "fontSize": 32,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 32,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "SALE OFF",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(33, 33, 33, 1)"
+      }
+    ],
+    "images": [
+      {
+        "id": "205:7576",
+        "name": "Image",
+        "imageRef": "39db2210156d5a64f9c7f44fc4caa7cb61e2f3d6",
+        "src": "/images/figma/image_39db2210.png",
+        "box": {
+          "x": -33762,
+          "y": 10974,
+          "width": 1300,
+          "height": 338
+        }
+      },
+      {
+        "id": "205:7584",
+        "name": "Image",
+        "imageRef": "d8c5235df3fd6b71dc86f66c283ed3366ea17a81",
+        "src": "/images/figma/image_d8c5235d.png",
+        "box": {
+          "x": -32931.88671875,
+          "y": 11035.192038621299,
+          "width": 164.61461984478592,
+          "height": 164.61461984478592
+        }
+      },
+      {
+        "id": "205:7587",
+        "name": "Image",
+        "imageRef": "d2acc3488cd769e5429db9b48d06b8b1ad01bbae",
+        "src": "/images/figma/image_d2acc348.png",
+        "box": {
+          "x": -32813.30077886581,
+          "y": 11035.322265625,
+          "width": 122.60249744317844,
+          "height": 112.3537960407084
+        }
+      },
+      {
+        "id": "205:7590",
+        "name": "Image",
+        "imageRef": "40ceb07bb7fce24b9bafc4f652bc17d44650fddc",
+        "src": "/images/figma/image_40ceb07b.png",
+        "box": {
+          "x": -32859.7578125,
+          "y": 11121.970812324253,
+          "width": 107.5158860203519,
+          "height": 121.05920764029725
+        }
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "id": "205:6821",
+    "name": "Container",
+    "type": "FRAME",
+    "box": {
+      "x": -33731,
+      "y": 5951,
+      "width": 1300,
+      "height": 569.59375
+    },
+    "fills": [],
+    "texts": [
+      {
+        "text": "Curated, not crowded",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Every listing is hand-reviewed. We choose quality over quantity — always.",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "No hidden fees. Ever.",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "The price you see is the price you pay. Transparent billing is non-negotiable.",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Travel responsibly",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "We offset every booking's carbon footprint and partner with eco-certified operators.",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Local-first mindset",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "We route your spend to local guides and communities — not global chains.",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Humans on standby",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "24/7 real-person support. No bots. No ticket queues. A real traveler picks up.",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Book with confidence",
+        "fontSize": 24,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 28.799999237060547,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Free cancellation, price match guarantee, and full refund protection on every trip.",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(85, 85, 85, 1)"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": 13,
+    "id": "211:11339",
+    "name": "Frame 16",
+    "type": "FRAME",
+    "box": {
+      "x": -33843,
+      "y": 11542,
+      "width": 3346.589599609375,
+      "height": 583
+    },
+    "fills": [],
+    "texts": [],
+    "images": [
+      {
+        "id": "211:11340",
+        "name": "Image",
+        "imageRef": "5ce07a606c9de1d5fcde3c79d3b760818a43b91a",
+        "src": "/images/figma/image_5ce07a60.png",
+        "box": {
+          "x": -33820.359375,
+          "y": 11564.640625,
+          "width": 339.6116638183594,
+          "height": 537.7184448242188
+        }
+      },
+      {
+        "id": "211:11341",
+        "name": "Image",
+        "imageRef": "ad5f65ba8949416de2c113c1872bad4ec91929aa",
+        "src": "/images/figma/image_ad5f65ba.png",
+        "box": {
+          "x": -33445.375,
+          "y": 11564.640625,
+          "width": 339.6116638183594,
+          "height": 537.7184448242188
+        }
+      },
+      {
+        "id": "211:11342",
+        "name": "Image",
+        "imageRef": "33715cf4619a7af6f90ba28e87199e8fd3fa1899",
+        "src": "/images/figma/image_33715cf4.png",
+        "box": {
+          "x": -33070.3828125,
+          "y": 11564.640625,
+          "width": 339.6116638183594,
+          "height": 537.7184448242188
+        }
+      },
+      {
+        "id": "211:11343",
+        "name": "Image",
+        "imageRef": "656ef5f8313b75a1d849a78078bc3b9e633d2fe9",
+        "src": "/images/figma/image_656ef5f8.png",
+        "box": {
+          "x": -32695.396484375,
+          "y": 11564.640625,
+          "width": 339.6116638183594,
+          "height": 537.7184448242188
+        }
+      },
+      {
+        "id": "211:11344",
+        "name": "Image",
+        "imageRef": "46a8f9b790e0d2fe6bf1a0b21300e22657b55d31",
+        "src": "/images/figma/image_46a8f9b7.png",
+        "box": {
+          "x": -32320.408203125,
+          "y": 11564.640625,
+          "width": 339.6116638183594,
+          "height": 537.7184448242188
+        }
+      },
+      {
+        "id": "211:11345",
+        "name": "Image",
+        "imageRef": "5ce07a606c9de1d5fcde3c79d3b760818a43b91a",
+        "src": "/images/figma/image_5ce07a60.png",
+        "box": {
+          "x": -31945.421875,
+          "y": 11564.640625,
+          "width": 339.6116638183594,
+          "height": 537.7184448242188
+        }
+      },
+      {
+        "id": "211:11346",
+        "name": "Image",
+        "imageRef": "ad5f65ba8949416de2c113c1872bad4ec91929aa",
+        "src": "/images/figma/image_ad5f65ba.png",
+        "box": {
+          "x": -31570.43359375,
+          "y": 11564.640625,
+          "width": 339.6116638183594,
+          "height": 537.7184448242188
+        }
+      },
+      {
+        "id": "211:11347",
+        "name": "Image",
+        "imageRef": "33715cf4619a7af6f90ba28e87199e8fd3fa1899",
+        "src": "/images/figma/image_33715cf4.png",
+        "box": {
+          "x": -31195.4453125,
+          "y": 11564.640625,
+          "width": 339.6116638183594,
+          "height": 537.7184448242188
+        }
+      },
+      {
+        "id": "211:11348",
+        "name": "Image",
+        "imageRef": "656ef5f8313b75a1d849a78078bc3b9e633d2fe9",
+        "src": "/images/figma/image_656ef5f8.png",
+        "box": {
+          "x": -30820.45703125,
+          "y": 11564.640625,
+          "width": 339.6116638183594,
+          "height": 537.7184448242188
+        }
+      },
+      {
+        "id": "211:11349",
+        "name": "Image",
+        "imageRef": "46a8f9b790e0d2fe6bf1a0b21300e22657b55d31",
+        "src": "/images/figma/image_46a8f9b7.png",
+        "box": {
+          "x": -30445.46875,
+          "y": 11564.640625,
+          "width": 339.6116638183594,
+          "height": 537.7184448242188
+        }
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "id": "211:11353",
+    "name": "Frame 18",
+    "type": "FRAME",
+    "box": {
+      "x": -33825,
+      "y": 11426,
+      "width": 1440,
+      "height": 836
+    },
+    "fills": [],
+    "texts": [],
+    "images": []
+  },
+  {
+    "index": 15,
+    "id": "211:11246",
+    "name": "Frame 14",
+    "type": "FRAME",
+    "box": {
+      "x": -33825,
+      "y": 12195,
+      "width": 1440,
+      "height": 976
+    },
+    "fills": [],
+    "texts": [
+      {
+        "text": "Every journey we organize is built on trust, safety, and unforgettable views.",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "E",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "v",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "y",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "j",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "u",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "y",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "w",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "g",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "z",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "b",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "u",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "u",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": ",",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "f",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "y",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": ",",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "u",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "f",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "g",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "b",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "v",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "w",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": ".",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "+123 (456) 789 00-6",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "+123",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "(456)",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "789",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "00-6",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "info@traveli.com",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "f",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "@",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "v",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": ".",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "c",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "m",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "12/a, New booston tower, NYC, US 120002",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "12/a,",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "New",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "booston",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "tower,",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "NYC,",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "US",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "120002",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Essential link",
+        "fontSize": 14.194443702697754,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14.194443702697754,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Home",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Home",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "About",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "About",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Destinations",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Destinations",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Blogs",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Blogs",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Get in touch",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Get",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "in",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "touch",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Testimonial",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "T",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "m",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Pricing",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "P",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "c",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "g",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Destinations",
+        "fontSize": 14.194443702697754,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14.194443702697754,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Al Arab",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "A",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "A",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "b",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Berlin",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "B",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Bangkok",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "B",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "g",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "k",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "k",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Seoul",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "S",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "u",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Lisbon",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "L",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "b",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Cairo",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "C",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "o",
+        "fontSize": 20.27777671813965,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 20.27777671813965,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Copyright & design by @Template Munk - 2026",
+        "fontSize": 16.22222137451172,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26.36111068725586,
+        "color": "rgba(255, 255, 255, 1)"
+      }
+    ],
+    "images": [
+      {
+        "id": "211:11246",
+        "name": "Frame 14",
+        "imageRef": "16134d4b5838c96ec2ecce90e7d7e38e54de1174",
+        "src": "/images/figma/frame_14_16134d4b.png",
+        "box": {
+          "x": -33825,
+          "y": 12195,
+          "width": 1440,
+          "height": 976
+        }
+      },
+      {
+        "id": "211:11240",
+        "name": "image 2",
+        "imageRef": "f88dca77aed56d81e89fe12e000b579eca93ec8f",
+        "src": "/images/figma/image_2_f88dca77.png",
+        "box": {
+          "x": -33674.16796875,
+          "y": 12453.583984375,
+          "width": 136.03009033203125,
+          "height": 46.63888931274414
+        }
+      }
+    ]
+  },
+  {
+    "index": "root_1",
+    "id": "205:7953",
+    "name": "Container",
+    "type": "FRAME",
+    "box": {
+      "x": -33825,
+      "y": 4653,
+      "width": 1920,
+      "height": 40
+    },
+    "fills": [],
+    "texts": [],
+    "images": []
+  },
+  {
+    "index": "root_2",
+    "id": "205:7842",
+    "name": "Section",
+    "type": "FRAME",
+    "box": {
+      "x": -33825,
+      "y": 3820,
+      "width": 1440,
+      "height": 911
+    },
+    "fills": [],
+    "texts": [
+      {
+        "text": "4.8 Stars on",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(255, 255, 255, 0.75)"
+      },
+      {
+        "text": "(586,679 reviews)",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(255, 255, 255, 0.75)"
+      },
+      {
+        "text": "Your",
+        "fontSize": 64,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 64,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "next",
+        "fontSize": 64,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 64,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "adventure",
+        "fontSize": 64,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 64,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "is",
+        "fontSize": 64,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 64,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "one",
+        "fontSize": 64,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 64,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "click away",
+        "fontSize": 64,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 64,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Where to",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Country",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 19.200000762939453,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Departure",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Return date",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Traveler",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 26,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "01 person",
+        "fontSize": 16,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 19.200000762939453,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "explore now",
+        "fontSize": 14,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "explore now",
+        "fontSize": 14,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Free cancellation on most tours",
+        "fontSize": 16,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 16,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Secure payment, 100% guaranteed",
+        "fontSize": 16,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 16,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "24/7 travel support",
+        "fontSize": 16,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 16,
+        "color": "rgba(33, 33, 33, 1)"
+      }
+    ],
+    "images": [
+      {
+        "id": "205:7845",
+        "name": "Canvas",
+        "imageRef": "b44aa943c5422b3dea8961b5a0a7ac6f04662c91",
+        "src": "/images/figma/canvas_b44aa943.png",
+        "box": {
+          "x": -33807,
+          "y": 3902,
+          "width": 1860,
+          "height": 726
+        }
+      }
+    ]
+  },
+  {
+    "index": "root_3",
+    "id": "205:7919",
+    "name": "Header",
+    "type": "FRAME",
+    "box": {
+      "x": -33825,
+      "y": 3820,
+      "width": 1422,
+      "height": 76
+    },
+    "fills": [],
+    "texts": [
+      {
+        "text": "Home",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "About",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Essentials",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Destination",
+        "fontSize": 14,
+        "fontWeight": 500,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Get A Quote",
+        "fontSize": 14,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(255, 255, 255, 1)"
+      },
+      {
+        "text": "Get A Quote",
+        "fontSize": 14,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(255, 255, 255, 1)"
+      }
+    ],
+    "images": [
+      {
+        "id": "205:7921",
+        "name": "image 1",
+        "imageRef": "f88dca77aed56d81e89fe12e000b579eca93ec8f",
+        "src": "/images/figma/image_2_f88dca77.png",
+        "box": {
+          "x": -33795,
+          "y": 3840,
+          "width": 134.1666717529297,
+          "height": 46
+        }
+      }
+    ]
+  },
+  {
+    "index": "root_4",
+    "id": "205:8324",
+    "name": "Container",
+    "type": "FRAME",
+    "box": {
+      "x": -33403,
+      "y": 5657,
+      "width": 595,
+      "height": 168
+    },
+    "fills": [],
+    "texts": [
+      {
+        "text": "\"We built Travelbid for the traveler we used to be — curious, budget-aware, and desperate for a platform that actually cared.\"",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "\"We",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "built",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Travelbid",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "for",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "the",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "traveler",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "we",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "used",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "to",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "be",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "—",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "curious,",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "budget-aware,",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "and",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "desperate",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "for",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "platform",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "that",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "actually",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "cared.\"",
+        "fontSize": 24,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 34,
+        "color": "rgba(85, 85, 85, 1)"
+      },
+      {
+        "text": "Newazul Huq Shehran",
+        "fontSize": 16,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 16,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Founder & Co",
+        "fontSize": 14,
+        "fontWeight": 400,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 14,
+        "color": "rgba(85, 85, 85, 1)"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": "root_5",
+    "id": "205:9391",
+    "name": "Frame 11",
+    "type": "FRAME",
+    "box": {
+      "x": -33825,
+      "y": 7974,
+      "width": 1437,
+      "height": 59.55351638793945
+    },
+    "fills": [],
+    "texts": [
+      {
+        "text": "Travel & Tour",
+        "fontSize": 37.670013427734375,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 37.670013427734375,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Explore",
+        "fontSize": 37.670013427734375,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 37.670013427734375,
+        "color": "rgba(234, 231, 231, 1)"
+      },
+      {
+        "text": "Travel & Tour",
+        "fontSize": 37.670013427734375,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 37.670013427734375,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Explore",
+        "fontSize": 37.670013427734375,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 37.670013427734375,
+        "color": "rgba(234, 231, 231, 1)"
+      },
+      {
+        "text": "Travel & Tour",
+        "fontSize": 37.670013427734375,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 37.670013427734375,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Explore",
+        "fontSize": 37.670013427734375,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 37.670013427734375,
+        "color": "rgba(234, 231, 231, 1)"
+      },
+      {
+        "text": "Travel & Tour",
+        "fontSize": 37.670013427734375,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 37.670013427734375,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Explore",
+        "fontSize": 37.670013427734375,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 37.670013427734375,
+        "color": "rgba(234, 231, 231, 1)"
+      },
+      {
+        "text": "Travel & Tour",
+        "fontSize": 37.670013427734375,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 37.670013427734375,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Explore",
+        "fontSize": 37.670013427734375,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 37.670013427734375,
+        "color": "rgba(234, 231, 231, 1)"
+      },
+      {
+        "text": "Travel & Tour",
+        "fontSize": 37.670013427734375,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 37.670013427734375,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "Explore",
+        "fontSize": 37.670013427734375,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 37.670013427734375,
+        "color": "rgba(234, 231, 231, 1)"
+      }
+    ],
+    "images": []
+  },
+  {
+    "index": "root_6",
+    "id": "211:11248",
+    "name": "Heading 2",
+    "type": "FRAME",
+    "box": {
+      "x": -33395,
+      "y": 11439,
+      "width": 565,
+      "height": 129
+    },
+    "fills": [],
+    "texts": [
+      {
+        "text": "TravelBid Instagram feed",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "T",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "v",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "l",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "B",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "i",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "I",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "n",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "s",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "t",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "g",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "r",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "a",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "m",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "f",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "e",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      },
+      {
+        "text": "d",
+        "fontSize": 48,
+        "fontWeight": 700,
+        "fontFamily": "Satoshi",
+        "lineHeightPx": 54,
+        "color": "rgba(33, 33, 33, 1)"
+      }
+    ],
+    "images": [
+      {
+        "id": "211:11254",
+        "name": "image 7",
+        "imageRef": "d2cf757c3517a2c81c468eac03a97223c90e9055",
+        "src": "/images/figma/image_7_d2cf757c.png",
+        "box": {
+          "x": -32894.66796875,
+          "y": 11463.000461310148,
+          "width": 94.33665078503691,
+          "height": 97.32435756403356
+        }
+      }
+    ]
+  }
+]
