@@ -420,14 +420,106 @@ export default function Traveli() {
 
   return (
     <div className="flex flex-col bg-white text-[#212121] min-h-screen font-sans selection:bg-[#212121] selection:text-white overflow-x-hidden">
-      {/* ==================== 1. FULL-BLEED HERO SECTION (205:7842 & 205:7919) ==================== */}
-      {/* Edge-to-Edge 100vw, Full Viewport Height, ZERO white margins/borders */}
+      {/* ==================== 1. TOP NAVBAR (Figma 205:7919) ==================== */}
+      <header className="bg-white w-full px-6 sm:px-8 py-4 flex items-center justify-between sticky top-0 z-50 border-b border-neutral-100 shadow-sm">
+        {/* Left: Vetri Vinayagar Travels Logo */}
+        <a href="#home" className="flex items-center">
+          <img
+            src="/images/logod.png"
+            alt="Vetri Vinayagar Travels"
+            className="h-11 w-auto object-contain"
+          />
+        </a>
+
+        {/* Center: Horizontal navigation links (Home in bold #110F0F, About, Essentials with chevron, Destination in #555555, gap-9 text-[15px] font-medium) */}
+        <nav className="hidden md:flex items-center gap-9 text-[15px] font-medium">
+          <a href="#home" className="text-[#110F0F] font-bold">
+            Home
+          </a>
+          <a href="#about" className="text-[#555555] hover:text-[#110F0F] transition-colors">
+            About
+          </a>
+          <div className="relative group cursor-pointer py-2 flex items-center gap-1.5 text-[#555555] hover:text-[#110F0F] transition-colors">
+            <span>Essentials</span>
+            <ChevronDown className="w-3.5 h-3.5 transition-transform duration-300 group-hover:rotate-180 text-[#555555]" />
+            <div className="absolute top-full left-0 mt-2 w-52 bg-white rounded-xl shadow-xl border border-gray-100 py-2 opacity-0 pointer-events-none group-hover:opacity-100 group-hover:pointer-events-auto transition-all duration-200 z-50 text-[#212121]">
+              <a href="#how-it-works" className="block px-4 py-2.5 text-xs text-gray-700 hover:bg-gray-50 font-medium">
+                How It Works
+              </a>
+              <a href="#adventures" className="block px-4 py-2.5 text-xs text-gray-700 hover:bg-gray-50 font-medium">
+                Tour Plans &amp; Video
+              </a>
+              <a href="#testimonials" className="block px-4 py-2.5 text-xs text-gray-700 hover:bg-gray-50 font-medium">
+                Traveler Reviews
+              </a>
+            </div>
+          </div>
+          <a href="#destinations" className="text-[#555555] hover:text-[#110F0F] transition-colors">
+            Destination
+          </a>
+        </nav>
+
+        {/* Right: Dark pill CTA button (bg-[#1C1C1C] text-white rounded-full px-6 py-3 flex items-center gap-2 text-[14px] font-medium) */}
+        <div className="flex items-center gap-4">
+          <button
+            onClick={() => setQuoteModalOpen(true)}
+            className="hidden sm:flex items-center gap-2 bg-[#1C1C1C] text-white rounded-full px-6 py-3 text-[14px] font-medium hover:bg-black transition-all shadow-md active:scale-95"
+          >
+            <div className="w-4 h-4 rounded-full border border-white/60 flex items-center justify-center">
+              <Compass className="w-2.5 h-2.5 text-white" />
+            </div>
+            <span>Get A Quote</span>
+          </button>
+
+          {/* Mobile Menu Button */}
+          <button
+            onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+            className="md:hidden p-2 text-[#110F0F] hover:bg-neutral-100 rounded-lg transition-colors"
+            aria-label="Toggle menu"
+          >
+            {mobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+          </button>
+        </div>
+      </header>
+
+      {/* Mobile Dropdown Menu */}
+      {mobileMenuOpen && (
+        <div className="md:hidden sticky top-[73px] z-40 bg-white border-b border-neutral-200 px-6 py-4 flex flex-col gap-3 text-[#110F0F] shadow-lg">
+          <a href="#home" onClick={() => setMobileMenuOpen(false)} className="text-sm font-bold py-2 text-[#110F0F]">
+            Home
+          </a>
+          <a href="#about" onClick={() => setMobileMenuOpen(false)} className="text-sm font-medium py-2 text-[#555555] hover:text-[#110F0F]">
+            About
+          </a>
+          <a href="#destinations" onClick={() => setMobileMenuOpen(false)} className="text-sm font-medium py-2 text-[#555555] hover:text-[#110F0F]">
+            Destination
+          </a>
+          <a href="#how-it-works" onClick={() => setMobileMenuOpen(false)} className="text-sm font-medium py-2 text-[#555555] hover:text-[#110F0F]">
+            How It Works
+          </a>
+          <a href="#testimonials" onClick={() => setMobileMenuOpen(false)} className="text-sm font-medium py-2 text-[#555555] hover:text-[#110F0F]">
+            Reviews
+          </a>
+          <button
+            onClick={() => {
+              setMobileMenuOpen(false);
+              setQuoteModalOpen(true);
+            }}
+            className="mt-2 w-full py-3 rounded-full bg-[#1C1C1C] text-white text-sm font-medium shadow"
+          >
+            Get A Quote
+          </button>
+        </div>
+      )}
+
+      {/* ==================== 1. HERO SECTION (205:7842) ==================== */}
+      {/* Rounded Hero Section directly below navbar with mx-6 rounded-[28px] */}
       <section
         id="home"
-        className="relative w-full min-h-screen flex flex-col justify-between overflow-hidden bg-[#07090e]"
+        className="relative mx-4 sm:mx-6 my-3 rounded-[28px] min-h-[85vh] lg:min-h-[88vh] flex flex-col justify-center overflow-hidden bg-[#07090e]"
       >
         {/* Hero Video & Earth Space Backdrop — 100% Bright, ZERO Dark Overlays */}
-        <div className="absolute inset-0 z-0 pointer-events-none overflow-hidden">
+        <div className="absolute inset-0 z-0 pointer-events-none overflow-hidden rounded-[28px]">
           <video
             autoPlay
             loop
@@ -450,103 +542,8 @@ export default function Traveli() {
           />
         </div>
 
-        {/* Full-Width Integrated Top Navbar — Explicit Satoshi Typography */}
-        <nav className="relative z-30 w-full px-6 sm:px-12 pt-8 pb-4 flex items-center justify-between max-w-[1440px] mx-auto font-['Satoshi']">
-          {/* Left: TravelBid white logo */}
-          <a href="#home" className="flex items-center gap-2 group">
-            <img
-              src="/images/figma/image_2_f88dca77.png"
-              alt="TravelBid Logo"
-              className="h-9 w-auto object-contain filter brightness-0 invert"
-            />
-            <span className="font-['Satoshi'] font-black text-2xl tracking-tight text-white hidden sm:inline">
-              Travel<span className="text-[#FF7A00]">Bid</span>
-            </span>
-          </a>
-
-          {/* Center: Desktop Navigation Links (Explicit 14px Satoshi Medium from Figma 205:7919) */}
-          <div className="hidden md:flex items-center gap-10 text-[14px] font-medium text-white font-['Satoshi']">
-            <a href="#home" className="font-['Satoshi'] text-white hover:text-white/80 transition-colors">
-              Home
-            </a>
-            <a href="#about" className="font-['Satoshi'] text-white/80 hover:text-white transition-colors">
-              About
-            </a>
-            <div className="relative group cursor-pointer py-2 flex items-center gap-1.5 text-white/80 hover:text-white transition-colors font-['Satoshi']">
-              <span className="font-['Satoshi']">Essentials</span>
-              <ChevronDown className="w-3.5 h-3.5 transition-transform duration-300 group-hover:rotate-180" />
-              <div className="absolute top-full left-0 mt-2 w-52 bg-white rounded-xl shadow-xl border border-gray-100 py-2 opacity-0 pointer-events-none group-hover:opacity-100 group-hover:pointer-events-auto transition-all duration-200 z-50 text-[#212121]">
-                <a href="#how-it-works" className="block px-4 py-2.5 text-xs text-gray-700 hover:bg-gray-50 font-medium font-['Satoshi']">
-                  How It Works
-                </a>
-                <a href="#adventures" className="block px-4 py-2.5 text-xs text-gray-700 hover:bg-gray-50 font-medium font-['Satoshi']">
-                  Tour Plans &amp; Video
-                </a>
-                <a href="#testimonials" className="block px-4 py-2.5 text-xs text-gray-700 hover:bg-gray-50 font-medium font-['Satoshi']">
-                  Traveler Reviews
-                </a>
-              </div>
-            </div>
-            <a href="#destinations" className="font-['Satoshi'] text-white/80 hover:text-white transition-colors">
-              Destination
-            </a>
-          </div>
-
-          {/* Right: Get A Quote White Pill Button (14px Satoshi Bold from Figma 205:7919) */}
-          <div className="flex items-center gap-4">
-            <button
-              onClick={() => setQuoteModalOpen(true)}
-              className="hidden sm:flex items-center gap-2 bg-white text-[#110F0F] px-5 py-2.5 rounded-full font-['Satoshi'] font-bold text-[14px] hover:bg-neutral-100 transition-all shadow-md active:scale-95"
-            >
-              <div className="w-5 h-5 rounded-full border border-[#110F0F] flex items-center justify-center">
-                <Compass className="w-3 h-3 text-[#110F0F]" />
-              </div>
-              <span className="font-['Satoshi'] font-bold">Get A Quote</span>
-            </button>
-
-            {/* Mobile Menu Button */}
-            <button
-              onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              className="md:hidden p-2 text-white hover:bg-white/10 rounded-lg transition-colors"
-              aria-label="Toggle menu"
-            >
-              {mobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
-            </button>
-          </div>
-        </nav>
-
-        {/* Mobile Dropdown Menu */}
-        {mobileMenuOpen && (
-          <div className="md:hidden relative z-40 bg-black/90 backdrop-blur-xl border-b border-white/10 px-6 py-4 flex flex-col gap-3 text-white">
-            <a href="#home" onClick={() => setMobileMenuOpen(false)} className="text-sm font-semibold py-2">
-              Home
-            </a>
-            <a href="#about" onClick={() => setMobileMenuOpen(false)} className="text-sm font-medium py-2">
-              About
-            </a>
-            <a href="#destinations" onClick={() => setMobileMenuOpen(false)} className="text-sm font-medium py-2">
-              Destination
-            </a>
-            <a href="#how-it-works" onClick={() => setMobileMenuOpen(false)} className="text-sm font-medium py-2">
-              How It Works
-            </a>
-            <a href="#testimonials" onClick={() => setMobileMenuOpen(false)} className="text-sm font-medium py-2">
-              Reviews
-            </a>
-            <button
-              onClick={() => {
-                setMobileMenuOpen(false);
-                setQuoteModalOpen(true);
-              }}
-              className="mt-2 w-full py-3 rounded-full bg-white text-[#110F0F] text-sm font-bold shadow"
-            >
-              Get A Quote
-            </button>
-          </div>
-        )}
-
         {/* Hero Main Content */}
-        <div className="relative z-20 max-w-[1300px] w-full mx-auto px-6 sm:px-10 pt-8 pb-16 flex flex-col lg:flex-row items-center justify-between gap-12 my-auto">
+        <div className="relative z-20 max-w-[1300px] w-full mx-auto px-6 sm:px-10 py-16 flex flex-col lg:flex-row items-center justify-between gap-12 my-auto">
           {/* Left Text Block */}
           <motion.div
             initial={{ opacity: 0, x: -35 }}
@@ -1724,15 +1721,12 @@ export default function Traveli() {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-10 pb-12 border-b border-white/20">
               {/* Col 1: Logo & Mission Statement & Contact Info (205:7711) */}
               <div className="lg:col-span-6 flex flex-col font-['Satoshi']">
-                <div className="flex items-center gap-2">
+                <div className="flex items-center">
                   <img
-                    src="/images/figma/image_2_f88dca77.png"
-                    alt="TravelBid Logo"
-                    className="h-9 w-auto object-contain filter brightness-0 invert"
+                    src="/images/white.png"
+                    alt="Vetri Vinayagar Travels"
+                    className="h-12 w-auto object-contain"
                   />
-                  <span className="font-['Satoshi'] font-black text-[28px] tracking-tight text-white">
-                    Travel<span className="text-[#FF7A00]">Bid</span>
-                  </span>
                 </div>
                 <p className="mt-4 text-[16.2px] leading-[26.36px] font-normal text-white/95 max-w-sm font-['Satoshi']">
                   <WordWaveText text="Every journey we organize is built on trust, safety, and unforgettable views." />
